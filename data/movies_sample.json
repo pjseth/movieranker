@@ -1,0 +1,7333 @@
+[
+  {
+    "tconst": "tt0111161",
+    "title": "The Shawshank Redemption",
+    "originalTitle": "The Shawshank Redemption",
+    "year": 1994,
+    "genres": [
+      "Drama"
+    ],
+    "averageRating": 9.3,
+    "numVotes": 3207270,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Shawshank+Redemption",
+    "id": 1
+  },
+  {
+    "tconst": "tt0468569",
+    "title": "The Dark Knight",
+    "originalTitle": "The Dark Knight",
+    "year": 2008,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "averageRating": 9.1,
+    "numVotes": 3188078,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Dark+Knight",
+    "id": 2
+  },
+  {
+    "tconst": "tt1375666",
+    "title": "Inception",
+    "originalTitle": "Inception",
+    "year": 2010,
+    "genres": [
+      "Adventure",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "averageRating": 8.8,
+    "numVotes": 2834028,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Inception",
+    "id": 3
+  },
+  {
+    "tconst": "tt0137523",
+    "title": "Fight Club",
+    "originalTitle": "Fight Club",
+    "year": 1999,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "averageRating": 8.8,
+    "numVotes": 2629285,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Fight+Club",
+    "id": 4
+  },
+  {
+    "tconst": "tt0816692",
+    "title": "Interstellar",
+    "originalTitle": "Interstellar",
+    "year": 2014,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "averageRating": 8.7,
+    "numVotes": 2557594,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Interstellar",
+    "id": 5
+  },
+  {
+    "tconst": "tt0109830",
+    "title": "Forrest Gump",
+    "originalTitle": "Forrest Gump",
+    "year": 1994,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "averageRating": 8.8,
+    "numVotes": 2509920,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Forrest+Gump",
+    "id": 6
+  },
+  {
+    "tconst": "tt0110912",
+    "title": "Pulp Fiction",
+    "originalTitle": "Pulp Fiction",
+    "year": 1994,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "averageRating": 8.8,
+    "numVotes": 2447776,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Pulp+Fiction",
+    "id": 7
+  },
+  {
+    "tconst": "tt0133093",
+    "title": "The Matrix",
+    "originalTitle": "The Matrix",
+    "year": 1999,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "averageRating": 8.7,
+    "numVotes": 2259494,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Matrix",
+    "id": 8
+  },
+  {
+    "tconst": "tt0068646",
+    "title": "The Godfather",
+    "originalTitle": "The Godfather",
+    "year": 1972,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "averageRating": 9.2,
+    "numVotes": 2237087,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Godfather",
+    "id": 9
+  },
+  {
+    "tconst": "tt0120737",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "originalTitle": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "averageRating": 8.9,
+    "numVotes": 2217500,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Lord+of+the+Rings%3A+The+Fellowship+of",
+    "id": 10
+  },
+  {
+    "tconst": "tt0167260",
+    "title": "The Lord of the Rings: The Return of the King",
+    "originalTitle": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "averageRating": 9.0,
+    "numVotes": 2175143,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Lord+of+the+Rings%3A+The+Return+of+the",
+    "id": 11
+  },
+  {
+    "tconst": "tt0114369",
+    "title": "Seven",
+    "originalTitle": "Se7en",
+    "year": 1995,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "averageRating": 8.6,
+    "numVotes": 2035400,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Seven",
+    "id": 12
+  },
+  {
+    "tconst": "tt1345836",
+    "title": "The Dark Knight Rises",
+    "originalTitle": "The Dark Knight Rises",
+    "year": 2012,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "averageRating": 8.4,
+    "numVotes": 2006025,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Dark+Knight+Rises",
+    "id": 13
+  },
+  {
+    "tconst": "tt0167261",
+    "title": "The Lord of the Rings: The Two Towers",
+    "originalTitle": "The Lord of the Rings: The Two Towers",
+    "year": 2002,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "averageRating": 8.8,
+    "numVotes": 1966840,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Lord+of+the+Rings%3A+The+Two+Towers",
+    "id": 14
+  },
+  {
+    "tconst": "tt1853728",
+    "title": "Django Unchained",
+    "originalTitle": "Django Unchained",
+    "year": 2012,
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "averageRating": 8.5,
+    "numVotes": 1894862,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Django+Unchained",
+    "id": 15
+  },
+  {
+    "tconst": "tt0172495",
+    "title": "Gladiator",
+    "originalTitle": "Gladiator",
+    "year": 2000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "averageRating": 8.5,
+    "numVotes": 1860845,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Gladiator",
+    "id": 16
+  },
+  {
+    "tconst": "tt0993846",
+    "title": "The Wolf of Wall Street",
+    "originalTitle": "The Wolf of Wall Street",
+    "year": 2013,
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Crime"
+    ],
+    "averageRating": 8.2,
+    "numVotes": 1803121,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Wolf+of+Wall+Street",
+    "id": 17
+  },
+  {
+    "tconst": "tt0361748",
+    "title": "Inglourious Basterds",
+    "originalTitle": "Inglourious Basterds",
+    "year": 2009,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "averageRating": 8.4,
+    "numVotes": 1797907,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Inglourious+Basterds",
+    "id": 18
+  },
+  {
+    "tconst": "tt0102926",
+    "title": "The Silence of the Lambs",
+    "originalTitle": "The Silence of the Lambs",
+    "year": 1991,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Horror"
+    ],
+    "averageRating": 8.6,
+    "numVotes": 1733094,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Silence+of+the+Lambs",
+    "id": 19
+  },
+  {
+    "tconst": "tt0372784",
+    "title": "Batman Begins",
+    "originalTitle": "Batman Begins",
+    "year": 2005,
+    "genres": [
+      "Crime"
+    ],
+    "averageRating": 8.2,
+    "numVotes": 1724857,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Batman+Begins",
+    "id": 20
+  },
+  {
+    "tconst": "tt7286456",
+    "title": "Joker",
+    "originalTitle": "Joker",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "averageRating": 8.3,
+    "numVotes": 1705961,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Joker",
+    "id": 21
+  },
+  {
+    "tconst": "tt1130884",
+    "title": "Shutter Island",
+    "originalTitle": "Shutter Island",
+    "year": 2010,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "averageRating": 8.2,
+    "numVotes": 1661648,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Shutter+Island",
+    "id": 22
+  },
+  {
+    "tconst": "tt0120815",
+    "title": "Saving Private Ryan",
+    "originalTitle": "Saving Private Ryan",
+    "year": 1998,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "averageRating": 8.6,
+    "numVotes": 1648561,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Saving+Private+Ryan",
+    "id": 23
+  },
+  {
+    "tconst": "tt0482571",
+    "title": "The Prestige",
+    "originalTitle": "The Prestige",
+    "year": 2006,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "averageRating": 8.5,
+    "numVotes": 1599784,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Prestige",
+    "id": 24
+  },
+  {
+    "tconst": "tt0108052",
+    "title": "Schindler's List",
+    "originalTitle": "Schindler's List",
+    "year": 1993,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "averageRating": 9.0,
+    "numVotes": 1591708,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Schindler%27s+List",
+    "id": 25
+  },
+  {
+    "tconst": "tt0076759",
+    "title": "Star Wars: Episode IV - A New Hope",
+    "originalTitle": "Star Wars",
+    "year": 1977,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageRating": 8.6,
+    "numVotes": 1577372,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Star+Wars%3A+Episode+IV+-+A+New+Hope",
+    "id": 26
+  },
+  {
+    "tconst": "tt0120689",
+    "title": "The Green Mile",
+    "originalTitle": "The Green Mile",
+    "year": 1999,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Fantasy"
+    ],
+    "averageRating": 8.6,
+    "numVotes": 1570303,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Green+Mile",
+    "id": 27
+  },
+  {
+    "tconst": "tt0848228",
+    "title": "The Avengers",
+    "originalTitle": "The Avengers",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "averageRating": 8.0,
+    "numVotes": 1565469,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Avengers",
+    "id": 28
+  },
+  {
+    "tconst": "tt0407887",
+    "title": "The Departed",
+    "originalTitle": "The Departed",
+    "year": 2006,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "averageRating": 8.5,
+    "numVotes": 1562957,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Departed",
+    "id": 29
+  },
+  {
+    "tconst": "tt0080684",
+    "title": "Star Wars: Episode V - The Empire Strikes Back",
+    "originalTitle": "Star Wars: Episode V - The Empire Strikes Back",
+    "year": 1980,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "averageRating": 8.7,
+    "numVotes": 1512052,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Star+Wars%3A+Episode+V+-+The+Empire+Strike",
+    "id": 30
+  },
+  {
+    "tconst": "tt0499549",
+    "title": "Avatar",
+    "originalTitle": "Avatar",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageRating": 7.9,
+    "numVotes": 1505859,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Avatar",
+    "id": 31
+  },
+  {
+    "tconst": "tt0071562",
+    "title": "The Godfather Part II",
+    "originalTitle": "The Godfather Part II",
+    "year": 1974,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "averageRating": 9.0,
+    "numVotes": 1501137,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Godfather+Part+II",
+    "id": 32
+  },
+  {
+    "tconst": "tt0088763",
+    "title": "Back to the Future",
+    "originalTitle": "Back to the Future",
+    "year": 1985,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "averageRating": 8.5,
+    "numVotes": 1461714,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Back+to+the+Future",
+    "id": 33
+  },
+  {
+    "tconst": "tt4154796",
+    "title": "Avengers: Endgame",
+    "originalTitle": "Avengers: Endgame",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 8.4,
+    "numVotes": 1459462,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Avengers%3A+Endgame",
+    "id": 34
+  },
+  {
+    "tconst": "tt0209144",
+    "title": "Memento",
+    "originalTitle": "Memento",
+    "year": 2000,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "averageRating": 8.4,
+    "numVotes": 1442492,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Memento",
+    "id": 35
+  },
+  {
+    "tconst": "tt0120338",
+    "title": "Titanic",
+    "originalTitle": "Titanic",
+    "year": 1997,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "averageRating": 8.0,
+    "numVotes": 1400852,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Titanic",
+    "id": 36
+  },
+  {
+    "tconst": "tt0099685",
+    "title": "GoodFellas",
+    "originalTitle": "GoodFellas",
+    "year": 1990,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "averageRating": 8.7,
+    "numVotes": 1400025,
+    "posterUrl": "https://via.placeholder.com/200x300?text=GoodFellas",
+    "id": 37
+  },
+  {
+    "tconst": "tt0120382",
+    "title": "The Truman Show",
+    "originalTitle": "The Truman Show",
+    "year": 1998,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "averageRating": 8.2,
+    "numVotes": 1386529,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Truman+Show",
+    "id": 38
+  },
+  {
+    "tconst": "tt4154756",
+    "title": "Avengers: Infinity War",
+    "originalTitle": "Avengers: Infinity War",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 8.4,
+    "numVotes": 1384157,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Avengers%3A+Infinity+War",
+    "id": 39
+  },
+  {
+    "tconst": "tt2015381",
+    "title": "Guardians of the Galaxy",
+    "originalTitle": "Guardians of the Galaxy",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "averageRating": 8.0,
+    "numVotes": 1370329,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Guardians+of+the+Galaxy",
+    "id": 40
+  },
+  {
+    "tconst": "tt0110413",
+    "title": "Léon: The Professional",
+    "originalTitle": "Léon",
+    "year": 1994,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "averageRating": 8.5,
+    "numVotes": 1356761,
+    "posterUrl": "https://via.placeholder.com/200x300?text=L%C3%A9on%3A+The+Professional",
+    "id": 41
+  },
+  {
+    "tconst": "tt0325980",
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "originalTitle": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "year": 2003,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageRating": 8.1,
+    "numVotes": 1333217,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Pirates+of+the+Caribbean%3A+The+Curse+of+t",
+    "id": 42
+  },
+  {
+    "tconst": "tt0910970",
+    "title": "WALL·E",
+    "originalTitle": "WALL·E",
+    "year": 2008,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Family"
+    ],
+    "averageRating": 8.4,
+    "numVotes": 1329590,
+    "posterUrl": "https://via.placeholder.com/200x300?text=WALL%C2%B7E",
+    "id": 43
+  },
+  {
+    "tconst": "tt0266697",
+    "title": "Kill Bill: Vol. 1",
+    "originalTitle": "Kill Bill: Vol. 1",
+    "year": 2003,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "averageRating": 8.2,
+    "numVotes": 1314416,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Kill+Bill%3A+Vol.+1",
+    "id": 44
+  },
+  {
+    "tconst": "tt0103064",
+    "title": "Terminator 2: Judgment Day",
+    "originalTitle": "Terminator 2: Judgment Day",
+    "year": 1991,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 8.6,
+    "numVotes": 1289775,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Terminator+2%3A+Judgment+Day",
+    "id": 45
+  },
+  {
+    "tconst": "tt0169547",
+    "title": "American Beauty",
+    "originalTitle": "American Beauty",
+    "year": 1999,
+    "genres": [
+      "Drama"
+    ],
+    "averageRating": 8.3,
+    "numVotes": 1282471,
+    "posterUrl": "https://via.placeholder.com/200x300?text=American+Beauty",
+    "id": 46
+  },
+  {
+    "tconst": "tt0120586",
+    "title": "American History X",
+    "originalTitle": "American History X",
+    "year": 1998,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "averageRating": 8.5,
+    "numVotes": 1278319,
+    "posterUrl": "https://via.placeholder.com/200x300?text=American+History+X",
+    "id": 47
+  },
+  {
+    "tconst": "tt0110357",
+    "title": "The Lion King",
+    "originalTitle": "The Lion King",
+    "year": 1994,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Drama"
+    ],
+    "averageRating": 8.5,
+    "numVotes": 1266286,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Lion+King",
+    "id": 48
+  },
+  {
+    "tconst": "tt1431045",
+    "title": "Deadpool",
+    "originalTitle": "Deadpool",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "averageRating": 8.0,
+    "numVotes": 1260580,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Deadpool",
+    "id": 49
+  },
+  {
+    "tconst": "tt0264464",
+    "title": "Catch Me If You Can",
+    "originalTitle": "Catch Me If You Can",
+    "year": 2002,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "averageRating": 8.1,
+    "numVotes": 1250365,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Catch+Me+If+You+Can",
+    "id": 50
+  },
+  {
+    "tconst": "tt0434409",
+    "title": "V for Vendetta",
+    "originalTitle": "V for Vendetta",
+    "year": 2005,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "averageRating": 8.1,
+    "numVotes": 1250227,
+    "posterUrl": "https://via.placeholder.com/200x300?text=V+for+Vendetta",
+    "id": 51
+  },
+  {
+    "tconst": "tt1049413",
+    "title": "Up",
+    "originalTitle": "Up",
+    "year": 2009,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "averageRating": 8.3,
+    "numVotes": 1244188,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Up",
+    "id": 52
+  },
+  {
+    "tconst": "tt0114814",
+    "title": "The Usual Suspects",
+    "originalTitle": "The Usual Suspects",
+    "year": 1995,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "averageRating": 8.5,
+    "numVotes": 1244120,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Usual+Suspects",
+    "id": 53
+  },
+  {
+    "tconst": "tt0081505",
+    "title": "The Shining",
+    "originalTitle": "The Shining",
+    "year": 1980,
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "averageRating": 8.4,
+    "numVotes": 1232757,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Shining",
+    "id": 54
+  },
+  {
+    "tconst": "tt0371746",
+    "title": "Iron Man",
+    "originalTitle": "Iron Man",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.9,
+    "numVotes": 1231864,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Iron+Man",
+    "id": 55
+  },
+  {
+    "tconst": "tt0119217",
+    "title": "Good Will Hunting",
+    "originalTitle": "Good Will Hunting",
+    "year": 1997,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "averageRating": 8.4,
+    "numVotes": 1226642,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Good+Will+Hunting",
+    "id": 56
+  },
+  {
+    "tconst": "tt0086190",
+    "title": "Star Wars: Episode VI - Return of the Jedi",
+    "originalTitle": "Star Wars: Episode VI - Return of the Jedi",
+    "year": 1983,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageRating": 8.3,
+    "numVotes": 1215349,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Star+Wars%3A+Episode+VI+-+Return+of+the+Je",
+    "id": 57
+  },
+  {
+    "tconst": "tt0266543",
+    "title": "Finding Nemo",
+    "originalTitle": "Finding Nemo",
+    "year": 2003,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "averageRating": 8.2,
+    "numVotes": 1215214,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Finding+Nemo",
+    "id": 58
+  },
+  {
+    "tconst": "tt1392190",
+    "title": "Mad Max: Fury Road",
+    "originalTitle": "Mad Max: Fury Road",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 8.1,
+    "numVotes": 1212012,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Mad+Max%3A+Fury+Road",
+    "id": 59
+  },
+  {
+    "tconst": "tt0477348",
+    "title": "No Country for Old Men",
+    "originalTitle": "No Country for Old Men",
+    "year": 2007,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "averageRating": 8.2,
+    "numVotes": 1200006,
+    "posterUrl": "https://via.placeholder.com/200x300?text=No+Country+for+Old+Men",
+    "id": 60
+  },
+  {
+    "tconst": "tt0338013",
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "originalTitle": "Eternal Sunshine of the Spotless Mind",
+    "year": 2004,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "averageRating": 8.3,
+    "numVotes": 1187407,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Eternal+Sunshine+of+the+Spotless+Mind",
+    "id": 61
+  },
+  {
+    "tconst": "tt0114709",
+    "title": "Toy Story",
+    "originalTitle": "Toy Story",
+    "year": 1995,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "averageRating": 8.3,
+    "numVotes": 1186141,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Toy+Story",
+    "id": 62
+  },
+  {
+    "tconst": "tt0107290",
+    "title": "Jurassic Park",
+    "originalTitle": "Jurassic Park",
+    "year": 1993,
+    "genres": [
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 8.2,
+    "numVotes": 1186055,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Jurassic+Park",
+    "id": 63
+  },
+  {
+    "tconst": "tt6751668",
+    "title": "Parasite",
+    "originalTitle": "Gisaengchung",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "averageRating": 8.5,
+    "numVotes": 1177106,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Parasite",
+    "id": 64
+  },
+  {
+    "tconst": "tt2267998",
+    "title": "Gone Girl",
+    "originalTitle": "Gone Girl",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "averageRating": 8.1,
+    "numVotes": 1176890,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Gone+Girl",
+    "id": 65
+  },
+  {
+    "tconst": "tt0105236",
+    "title": "Reservoir Dogs",
+    "originalTitle": "Reservoir Dogs",
+    "year": 1992,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "averageRating": 8.2,
+    "numVotes": 1174399,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Reservoir+Dogs",
+    "id": 66
+  },
+  {
+    "tconst": "tt2582802",
+    "title": "Whiplash",
+    "originalTitle": "Whiplash",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "averageRating": 8.5,
+    "numVotes": 1165596,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Whiplash",
+    "id": 67
+  },
+  {
+    "tconst": "tt0112573",
+    "title": "Braveheart",
+    "originalTitle": "Braveheart",
+    "year": 1995,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "averageRating": 8.3,
+    "numVotes": 1165539,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Braveheart",
+    "id": 68
+  },
+  {
+    "tconst": "tt0073486",
+    "title": "One Flew Over the Cuckoo's Nest",
+    "originalTitle": "One Flew Over the Cuckoo's Nest",
+    "year": 1975,
+    "genres": [
+      "Drama"
+    ],
+    "averageRating": 8.6,
+    "numVotes": 1160317,
+    "posterUrl": "https://via.placeholder.com/200x300?text=One+Flew+Over+the+Cuckoo%27s+Nest",
+    "id": 69
+  },
+  {
+    "tconst": "tt0167404",
+    "title": "The Sixth Sense",
+    "originalTitle": "The Sixth Sense",
+    "year": 1999,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "averageRating": 8.2,
+    "numVotes": 1150593,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Sixth+Sense",
+    "id": 70
+  },
+  {
+    "tconst": "tt0082971",
+    "title": "Raiders of the Lost Ark",
+    "originalTitle": "Raiders of the Lost Ark",
+    "year": 1981,
+    "genres": [
+      "Adventure"
+    ],
+    "averageRating": 8.4,
+    "numVotes": 1114224,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Raiders+of+the+Lost+Ark",
+    "id": 71
+  },
+  {
+    "tconst": "tt1392170",
+    "title": "The Hunger Games",
+    "originalTitle": "The Hunger Games",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.2,
+    "numVotes": 1086846,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Hunger+Games",
+    "id": 72
+  },
+  {
+    "tconst": "tt0198781",
+    "title": "Monsters, Inc.",
+    "originalTitle": "Monsters, Inc.",
+    "year": 2001,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "averageRating": 8.1,
+    "numVotes": 1081225,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Monsters%2C+Inc.",
+    "id": 73
+  },
+  {
+    "tconst": "tt1160419",
+    "title": "Dune: Part One",
+    "originalTitle": "Dune: Part One",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "averageRating": 8.0,
+    "numVotes": 1073112,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Dune%3A+Part+One",
+    "id": 74
+  },
+  {
+    "tconst": "tt0078748",
+    "title": "Alien",
+    "originalTitle": "Alien",
+    "year": 1979,
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "averageRating": 8.4,
+    "numVotes": 1068936,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Alien",
+    "id": 75
+  },
+  {
+    "tconst": "tt15398776",
+    "title": "Oppenheimer",
+    "originalTitle": "Oppenheimer",
+    "year": 2023,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "averageRating": 8.2,
+    "numVotes": 1062874,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Oppenheimer",
+    "id": 76
+  },
+  {
+    "tconst": "tt0268978",
+    "title": "A Beautiful Mind",
+    "originalTitle": "A Beautiful Mind",
+    "year": 2001,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Mystery"
+    ],
+    "averageRating": 8.2,
+    "numVotes": 1057643,
+    "posterUrl": "https://via.placeholder.com/200x300?text=A+Beautiful+Mind",
+    "id": 77
+  },
+  {
+    "tconst": "tt1201607",
+    "title": "Harry Potter and the Deathly Hallows: Part 2",
+    "originalTitle": "Harry Potter and the Deathly Hallows: Part 2",
+    "year": 2011,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "averageRating": 8.1,
+    "numVotes": 1052584,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Harry+Potter+and+the+Deathly+Hallows%3A+Pa",
+    "id": 78
+  },
+  {
+    "tconst": "tt0095016",
+    "title": "Die Hard",
+    "originalTitle": "Die Hard",
+    "year": 1988,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "averageRating": 8.2,
+    "numVotes": 1033330,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Die+Hard",
+    "id": 79
+  },
+  {
+    "tconst": "tt1675434",
+    "title": "The Intouchables",
+    "originalTitle": "Intouchables",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "averageRating": 8.5,
+    "numVotes": 1033194,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Intouchables",
+    "id": 80
+  },
+  {
+    "tconst": "tt10872600",
+    "title": "Spider-Man: No Way Home",
+    "originalTitle": "Spider-Man: No Way Home",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageRating": 8.1,
+    "numVotes": 1032893,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Spider-Man%3A+No+Way+Home",
+    "id": 81
+  },
+  {
+    "tconst": "tt0075314",
+    "title": "Taxi Driver",
+    "originalTitle": "Taxi Driver",
+    "year": 1976,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "averageRating": 8.2,
+    "numVotes": 1032470,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Taxi+Driver",
+    "id": 82
+  },
+  {
+    "tconst": "tt2488496",
+    "title": "Star Wars: Episode VII - The Force Awakens",
+    "originalTitle": "Star Wars: Episode VII - The Force Awakens",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.7,
+    "numVotes": 1029876,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Star+Wars%3A+Episode+VII+-+The+Force+Awake",
+    "id": 83
+  },
+  {
+    "tconst": "tt0086250",
+    "title": "Scarface",
+    "originalTitle": "Scarface",
+    "year": 1983,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "averageRating": 8.3,
+    "numVotes": 1023536,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Scarface",
+    "id": 84
+  },
+  {
+    "tconst": "tt3659388",
+    "title": "The Martian",
+    "originalTitle": "The Martian",
+    "year": 2015,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "averageRating": 8.0,
+    "numVotes": 1019205,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Martian",
+    "id": 85
+  },
+  {
+    "tconst": "tt0253474",
+    "title": "The Pianist",
+    "originalTitle": "The Pianist",
+    "year": 2002,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "averageRating": 8.5,
+    "numVotes": 1016751,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Pianist",
+    "id": 86
+  },
+  {
+    "tconst": "tt0088247",
+    "title": "The Terminator",
+    "originalTitle": "The Terminator",
+    "year": 1984,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 8.1,
+    "numVotes": 1009787,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Terminator",
+    "id": 87
+  },
+  {
+    "tconst": "tt2395427",
+    "title": "Avengers: Age of Ultron",
+    "originalTitle": "Avengers: Age of Ultron",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.3,
+    "numVotes": 1007126,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Avengers%3A+Age+of+Ultron",
+    "id": 88
+  },
+  {
+    "tconst": "tt0050083",
+    "title": "12 Angry Men",
+    "originalTitle": "12 Angry Men",
+    "year": 1957,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "averageRating": 9.0,
+    "numVotes": 991268,
+    "posterUrl": "https://via.placeholder.com/200x300?text=12+Angry+Men",
+    "id": 89
+  },
+  {
+    "tconst": "tt0435761",
+    "title": "Toy Story 3",
+    "originalTitle": "Toy Story 3",
+    "year": 2010,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "averageRating": 8.3,
+    "numVotes": 980348,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Toy+Story+3",
+    "id": 90
+  },
+  {
+    "tconst": "tt0208092",
+    "title": "Snatch",
+    "originalTitle": "Snatch",
+    "year": 2000,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "averageRating": 8.2,
+    "numVotes": 979748,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Snatch",
+    "id": 91
+  },
+  {
+    "tconst": "tt0180093",
+    "title": "Requiem for a Dream",
+    "originalTitle": "Requiem for a Dream",
+    "year": 2000,
+    "genres": [
+      "Drama"
+    ],
+    "averageRating": 8.3,
+    "numVotes": 978184,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Requiem+for+a+Dream",
+    "id": 92
+  },
+  {
+    "tconst": "tt2278388",
+    "title": "The Grand Budapest Hotel",
+    "originalTitle": "The Grand Budapest Hotel",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "averageRating": 8.1,
+    "numVotes": 977810,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Grand+Budapest+Hotel",
+    "id": 93
+  },
+  {
+    "tconst": "tt1843866",
+    "title": "Captain America: The Winter Soldier",
+    "originalTitle": "Captain America: The Winter Soldier",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.7,
+    "numVotes": 977232,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Captain+America%3A+The+Winter+Soldier",
+    "id": 94
+  },
+  {
+    "tconst": "tt0145487",
+    "title": "Spider-Man",
+    "originalTitle": "Spider-Man",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.4,
+    "numVotes": 974881,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Spider-Man",
+    "id": 95
+  },
+  {
+    "tconst": "tt0245429",
+    "title": "Spirited Away",
+    "originalTitle": "Sen to Chihiro no kamikakushi",
+    "year": 2001,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Family"
+    ],
+    "averageRating": 8.6,
+    "numVotes": 974842,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Spirited+Away",
+    "id": 96
+  },
+  {
+    "tconst": "tt0458339",
+    "title": "Captain America: The First Avenger",
+    "originalTitle": "Captain America: The First Avenger",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 6.9,
+    "numVotes": 973134,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Captain+America%3A+The+First+Avenger",
+    "id": 97
+  },
+  {
+    "tconst": "tt1300854",
+    "title": "Iron Man 3",
+    "originalTitle": "Iron Man Three",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.1,
+    "numVotes": 971452,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Iron+Man+3",
+    "id": 98
+  },
+  {
+    "tconst": "tt0800369",
+    "title": "Thor",
+    "originalTitle": "Thor",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "averageRating": 7.0,
+    "numVotes": 971197,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Thor",
+    "id": 99
+  },
+  {
+    "tconst": "tt7131622",
+    "title": "Once Upon a Time in... Hollywood",
+    "originalTitle": "Once Upon a Time in... Hollywood",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "averageRating": 7.6,
+    "numVotes": 968831,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Once+Upon+a+Time+in...+Hollywood",
+    "id": 100
+  },
+  {
+    "tconst": "tt0241527",
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "originalTitle": "Harry Potter and the Sorcerer's Stone",
+    "year": 2001,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "averageRating": 7.7,
+    "numVotes": 957180,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Harry+Potter+and+the+Sorcerer%27s+Stone",
+    "id": 101
+  },
+  {
+    "tconst": "tt1663202",
+    "title": "The Revenant",
+    "originalTitle": "The Revenant",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "averageRating": 8.0,
+    "numVotes": 954468,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Revenant",
+    "id": 102
+  },
+  {
+    "tconst": "tt0382932",
+    "title": "Ratatouille",
+    "originalTitle": "Ratatouille",
+    "year": 2007,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "averageRating": 8.1,
+    "numVotes": 953253,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Ratatouille",
+    "id": 103
+  },
+  {
+    "tconst": "tt1392214",
+    "title": "Prisoners",
+    "originalTitle": "Prisoners",
+    "year": 2013,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "averageRating": 8.2,
+    "numVotes": 944441,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Prisoners",
+    "id": 104
+  },
+  {
+    "tconst": "tt1228705",
+    "title": "Iron Man 2",
+    "originalTitle": "Iron Man 2",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "averageRating": 6.9,
+    "numVotes": 943603,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Iron+Man+2",
+    "id": 105
+  },
+  {
+    "tconst": "tt0066921",
+    "title": "A Clockwork Orange",
+    "originalTitle": "A Clockwork Orange",
+    "year": 1971,
+    "genres": [
+      "Crime",
+      "Sci-Fi"
+    ],
+    "averageRating": 8.2,
+    "numVotes": 939270,
+    "posterUrl": "https://via.placeholder.com/200x300?text=A+Clockwork+Orange",
+    "id": 106
+  },
+  {
+    "tconst": "tt1877830",
+    "title": "The Batman",
+    "originalTitle": "The Batman",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "averageRating": 7.8,
+    "numVotes": 936043,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Batman",
+    "id": 107
+  },
+  {
+    "tconst": "tt1119646",
+    "title": "The Hangover",
+    "originalTitle": "The Hangover",
+    "year": 2009,
+    "genres": [
+      "Comedy"
+    ],
+    "averageRating": 7.7,
+    "numVotes": 936016,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Hangover",
+    "id": 108
+  },
+  {
+    "tconst": "tt3498820",
+    "title": "Captain America: Civil War",
+    "originalTitle": "Captain America: Civil War",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.8,
+    "numVotes": 933895,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Captain+America%3A+Civil+War",
+    "id": 109
+  },
+  {
+    "tconst": "tt0120915",
+    "title": "Star Wars: Episode I - The Phantom Menace",
+    "originalTitle": "Star Wars: Episode I - The Phantom Menace",
+    "year": 1999,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageRating": 6.5,
+    "numVotes": 932377,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Star+Wars%3A+Episode+I+-+The+Phantom+Menac",
+    "id": 110
+  },
+  {
+    "tconst": "tt0903624",
+    "title": "The Hobbit: An Unexpected Journey",
+    "originalTitle": "The Hobbit: An Unexpected Journey",
+    "year": 2012,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageRating": 7.8,
+    "numVotes": 931498,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Hobbit%3A+An+Unexpected+Journey",
+    "id": 111
+  },
+  {
+    "tconst": "tt3315342",
+    "title": "Logan",
+    "originalTitle": "Logan",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "averageRating": 8.1,
+    "numVotes": 931239,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Logan",
+    "id": 112
+  },
+  {
+    "tconst": "tt0121766",
+    "title": "Star Wars: Episode III - Revenge of the Sith",
+    "originalTitle": "Star Wars: Episode III - Revenge of the Sith",
+    "year": 2005,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageRating": 7.7,
+    "numVotes": 927588,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Star+Wars%3A+Episode+III+-+Revenge+of+the+",
+    "id": 113
+  },
+  {
+    "tconst": "tt2096673",
+    "title": "Inside Out",
+    "originalTitle": "Inside Out",
+    "year": 2015,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "averageRating": 8.1,
+    "numVotes": 922824,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Inside+Out",
+    "id": 114
+  },
+  {
+    "tconst": "tt0118715",
+    "title": "The Big Lebowski",
+    "originalTitle": "The Big Lebowski",
+    "year": 1998,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "averageRating": 8.1,
+    "numVotes": 919569,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Big+Lebowski",
+    "id": 115
+  },
+  {
+    "tconst": "tt0416449",
+    "title": "300",
+    "originalTitle": "300",
+    "year": 2006,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "averageRating": 7.6,
+    "numVotes": 915974,
+    "posterUrl": "https://via.placeholder.com/200x300?text=300",
+    "id": 116
+  },
+  {
+    "tconst": "tt1825683",
+    "title": "Black Panther",
+    "originalTitle": "Black Panther",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.3,
+    "numVotes": 914850,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Black+Panther",
+    "id": 117
+  },
+  {
+    "tconst": "tt0246578",
+    "title": "Donnie Darko",
+    "originalTitle": "Donnie Darko",
+    "year": 2001,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "averageRating": 8.0,
+    "numVotes": 914801,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Donnie+Darko",
+    "id": 118
+  },
+  {
+    "tconst": "tt1010048",
+    "title": "Slumdog Millionaire",
+    "originalTitle": "Slumdog Millionaire",
+    "year": 2008,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "averageRating": 8.0,
+    "numVotes": 912288,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Slumdog+Millionaire",
+    "id": 119
+  },
+  {
+    "tconst": "tt0317705",
+    "title": "The Incredibles",
+    "originalTitle": "The Incredibles",
+    "year": 2004,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "averageRating": 8.0,
+    "numVotes": 907561,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Incredibles",
+    "id": 120
+  },
+  {
+    "tconst": "tt1454468",
+    "title": "Gravity",
+    "originalTitle": "Gravity",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "averageRating": 7.7,
+    "numVotes": 902648,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Gravity",
+    "id": 121
+  },
+  {
+    "tconst": "tt3501632",
+    "title": "Thor: Ragnarok",
+    "originalTitle": "Thor: Ragnarok",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "averageRating": 7.9,
+    "numVotes": 900672,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Thor%3A+Ragnarok",
+    "id": 122
+  },
+  {
+    "tconst": "tt0892769",
+    "title": "How to Train Your Dragon",
+    "originalTitle": "How to Train Your Dragon",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "averageRating": 8.1,
+    "numVotes": 900430,
+    "posterUrl": "https://via.placeholder.com/200x300?text=How+to+Train+Your+Dragon",
+    "id": 123
+  },
+  {
+    "tconst": "tt0060196",
+    "title": "The Good, the Bad and the Ugly",
+    "originalTitle": "Il buono, il brutto, il cattivo",
+    "year": 1966,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "averageRating": 8.8,
+    "numVotes": 894060,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Good%2C+the+Bad+and+the+Ugly",
+    "id": 124
+  },
+  {
+    "tconst": "tt0947798",
+    "title": "Black Swan",
+    "originalTitle": "Black Swan",
+    "year": 2010,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "averageRating": 8.0,
+    "numVotes": 892639,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Black+Swan",
+    "id": 125
+  },
+  {
+    "tconst": "tt1745960",
+    "title": "Top Gun: Maverick",
+    "originalTitle": "Top Gun: Maverick",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "averageRating": 8.2,
+    "numVotes": 891325,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Top+Gun%3A+Maverick",
+    "id": 126
+  },
+  {
+    "tconst": "tt1211837",
+    "title": "Doctor Strange",
+    "originalTitle": "Doctor Strange",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageRating": 7.5,
+    "numVotes": 885364,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Doctor+Strange",
+    "id": 127
+  },
+  {
+    "tconst": "tt0083658",
+    "title": "Blade Runner",
+    "originalTitle": "Blade Runner",
+    "year": 1982,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "averageRating": 8.1,
+    "numVotes": 884843,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Blade+Runner",
+    "id": 128
+  },
+  {
+    "tconst": "tt8946378",
+    "title": "Knives Out",
+    "originalTitle": "Knives Out",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "averageRating": 7.9,
+    "numVotes": 883195,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Knives+Out",
+    "id": 129
+  },
+  {
+    "tconst": "tt0480249",
+    "title": "I Am Legend",
+    "originalTitle": "I Am Legend",
+    "year": 2007,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.2,
+    "numVotes": 881973,
+    "posterUrl": "https://via.placeholder.com/200x300?text=I+Am+Legend",
+    "id": 130
+  },
+  {
+    "tconst": "tt2084970",
+    "title": "The Imitation Game",
+    "originalTitle": "The Imitation Game",
+    "year": 2014,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Thriller"
+    ],
+    "averageRating": 8.0,
+    "numVotes": 880943,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Imitation+Game",
+    "id": 131
+  },
+  {
+    "tconst": "tt0317248",
+    "title": "City of God",
+    "originalTitle": "Cidade de Deus",
+    "year": 2002,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "averageRating": 8.6,
+    "numVotes": 875057,
+    "posterUrl": "https://via.placeholder.com/200x300?text=City+of+God",
+    "id": 132
+  },
+  {
+    "tconst": "tt0378194",
+    "title": "Kill Bill: Vol. 2",
+    "originalTitle": "Kill Bill: Vol. 2",
+    "year": 2004,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "averageRating": 8.0,
+    "numVotes": 874138,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Kill+Bill%3A+Vol.+2",
+    "id": 133
+  },
+  {
+    "tconst": "tt0770828",
+    "title": "Man of Steel",
+    "originalTitle": "Man of Steel",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.1,
+    "numVotes": 870883,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Man+of+Steel",
+    "id": 134
+  },
+  {
+    "tconst": "tt2543164",
+    "title": "Arrival",
+    "originalTitle": "Arrival",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.9,
+    "numVotes": 870231,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Arrival",
+    "id": 135
+  },
+  {
+    "tconst": "tt0097576",
+    "title": "Indiana Jones and the Last Crusade",
+    "originalTitle": "Indiana Jones and the Last Crusade",
+    "year": 1989,
+    "genres": [
+      "Adventure"
+    ],
+    "averageRating": 8.2,
+    "numVotes": 866333,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Indiana+Jones+and+the+Last+Crusade",
+    "id": 136
+  },
+  {
+    "tconst": "tt1205489",
+    "title": "Gran Torino",
+    "originalTitle": "Gran Torino",
+    "year": 2008,
+    "genres": [
+      "Drama"
+    ],
+    "averageRating": 8.1,
+    "numVotes": 865391,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Gran+Torino",
+    "id": 137
+  },
+  {
+    "tconst": "tt0093058",
+    "title": "Full Metal Jacket",
+    "originalTitle": "Full Metal Jacket",
+    "year": 1987,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "averageRating": 8.2,
+    "numVotes": 853782,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Full+Metal+Jacket",
+    "id": 138
+  },
+  {
+    "tconst": "tt0144084",
+    "title": "American Psycho",
+    "originalTitle": "American Psycho",
+    "year": 2000,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Horror"
+    ],
+    "averageRating": 7.6,
+    "numVotes": 845900,
+    "posterUrl": "https://via.placeholder.com/200x300?text=American+Psycho",
+    "id": 139
+  },
+  {
+    "tconst": "tt0090605",
+    "title": "Aliens",
+    "originalTitle": "Aliens",
+    "year": 1986,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror"
+    ],
+    "averageRating": 8.4,
+    "numVotes": 843019,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Aliens",
+    "id": 140
+  },
+  {
+    "tconst": "tt0211915",
+    "title": "Amélie",
+    "originalTitle": "Le Fabuleux Destin d'Amélie Poulain",
+    "year": 2001,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "averageRating": 8.2,
+    "numVotes": 842897,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Am%C3%A9lie",
+    "id": 141
+  },
+  {
+    "tconst": "tt3896198",
+    "title": "Guardians of the Galaxy: Vol. 2",
+    "originalTitle": "Guardians of the Galaxy Vol. 2",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "averageRating": 7.6,
+    "numVotes": 834545,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Guardians+of+the+Galaxy%3A+Vol.+2",
+    "id": 142
+  },
+  {
+    "tconst": "tt2911666",
+    "title": "John Wick",
+    "originalTitle": "John Wick",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "averageRating": 7.5,
+    "numVotes": 833324,
+    "posterUrl": "https://via.placeholder.com/200x300?text=John+Wick",
+    "id": 143
+  },
+  {
+    "tconst": "tt0383574",
+    "title": "Pirates of the Caribbean: Dead Man's Chest",
+    "originalTitle": "Pirates of the Caribbean: Dead Man's Chest",
+    "year": 2006,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageRating": 7.4,
+    "numVotes": 830394,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Pirates+of+the+Caribbean%3A+Dead+Man%27s+Che",
+    "id": 144
+  },
+  {
+    "tconst": "tt5052448",
+    "title": "Get Out",
+    "originalTitle": "Get Out",
+    "year": 2017,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "averageRating": 7.8,
+    "numVotes": 826381,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Get+Out",
+    "id": 145
+  },
+  {
+    "tconst": "tt0121765",
+    "title": "Star Wars: Episode II - Attack of the Clones",
+    "originalTitle": "Star Wars: Episode II - Attack of the Clones",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageRating": 6.6,
+    "numVotes": 825829,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Star+Wars%3A+Episode+II+-+Attack+of+the+Cl",
+    "id": 146
+  },
+  {
+    "tconst": "tt1285016",
+    "title": "The Social Network",
+    "originalTitle": "The Social Network",
+    "year": 2010,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "averageRating": 7.8,
+    "numVotes": 823427,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Social+Network",
+    "id": 147
+  },
+  {
+    "tconst": "tt0401792",
+    "title": "Sin City",
+    "originalTitle": "Sin City",
+    "year": 2005,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "averageRating": 8.0,
+    "numVotes": 821977,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Sin+City",
+    "id": 148
+  },
+  {
+    "tconst": "tt0118799",
+    "title": "Life Is Beautiful",
+    "originalTitle": "La vita è bella",
+    "year": 1997,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "averageRating": 8.6,
+    "numVotes": 816538,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Life+Is+Beautiful",
+    "id": 149
+  },
+  {
+    "tconst": "tt0126029",
+    "title": "Shrek",
+    "originalTitle": "Shrek",
+    "year": 2001,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "averageRating": 7.9,
+    "numVotes": 815326,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Shrek",
+    "id": 150
+  },
+  {
+    "tconst": "tt5013056",
+    "title": "Dunkirk",
+    "originalTitle": "Dunkirk",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "averageRating": 7.8,
+    "numVotes": 812169,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Dunkirk",
+    "id": 151
+  },
+  {
+    "tconst": "tt0113277",
+    "title": "Heat",
+    "originalTitle": "Heat",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "averageRating": 8.3,
+    "numVotes": 810581,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Heat",
+    "id": 152
+  },
+  {
+    "tconst": "tt1631867",
+    "title": "Edge of Tomorrow",
+    "originalTitle": "Edge of Tomorrow",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.9,
+    "numVotes": 809126,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Edge+of+Tomorrow",
+    "id": 153
+  },
+  {
+    "tconst": "tt2250912",
+    "title": "Spider-Man: Homecoming",
+    "originalTitle": "Spider-Man: Homecoming",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.4,
+    "numVotes": 805429,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Spider-Man%3A+Homecoming",
+    "id": 154
+  },
+  {
+    "tconst": "tt4633694",
+    "title": "Spider-Man: Into the Spider-Verse",
+    "originalTitle": "Spider-Man: Into the Spider-Verse",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "averageRating": 8.4,
+    "numVotes": 798582,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Spider-Man%3A+Into+the+Spider-Verse",
+    "id": 155
+  },
+  {
+    "tconst": "tt2975590",
+    "title": "Batman v Superman: Dawn of Justice",
+    "originalTitle": "Batman v Superman: Dawn of Justice",
+    "year": 2016,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "averageRating": 6.4,
+    "numVotes": 794319,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Batman+v+Superman%3A+Dawn+of+Justice",
+    "id": 156
+  },
+  {
+    "tconst": "tt0316654",
+    "title": "Spider-Man 2",
+    "originalTitle": "Spider-Man 2",
+    "year": 2004,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.5,
+    "numVotes": 790780,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Spider-Man+2",
+    "id": 157
+  },
+  {
+    "tconst": "tt1877832",
+    "title": "X-Men: Days of Future Past",
+    "originalTitle": "X-Men: Days of Future Past",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.9,
+    "numVotes": 790708,
+    "posterUrl": "https://via.placeholder.com/200x300?text=X-Men%3A+Days+of+Future+Past",
+    "id": 158
+  },
+  {
+    "tconst": "tt0116282",
+    "title": "Fargo",
+    "originalTitle": "Fargo",
+    "year": 1996,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "averageRating": 8.1,
+    "numVotes": 790216,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Fargo",
+    "id": 159
+  },
+  {
+    "tconst": "tt2024544",
+    "title": "12 Years a Slave",
+    "originalTitle": "12 Years a Slave",
+    "year": 2013,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "averageRating": 8.1,
+    "numVotes": 789885,
+    "posterUrl": "https://via.placeholder.com/200x300?text=12+Years+a+Slave",
+    "id": 160
+  },
+  {
+    "tconst": "tt0054215",
+    "title": "Psycho",
+    "originalTitle": "Psycho",
+    "year": 1960,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "averageRating": 8.5,
+    "numVotes": 788945,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Psycho",
+    "id": 161
+  },
+  {
+    "tconst": "tt0816711",
+    "title": "World War Z",
+    "originalTitle": "World War Z",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror"
+    ],
+    "averageRating": 7.0,
+    "numVotes": 788146,
+    "posterUrl": "https://via.placeholder.com/200x300?text=World+War+Z",
+    "id": 162
+  },
+  {
+    "tconst": "tt0062622",
+    "title": "2001: A Space Odyssey",
+    "originalTitle": "2001: A Space Odyssey",
+    "year": 1968,
+    "genres": [
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 8.3,
+    "numVotes": 786807,
+    "posterUrl": "https://via.placeholder.com/200x300?text=2001%3A+A+Space+Odyssey",
+    "id": 163
+  },
+  {
+    "tconst": "tt0478970",
+    "title": "Ant-Man",
+    "originalTitle": "Ant-Man",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.2,
+    "numVotes": 784729,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Ant-Man",
+    "id": 164
+  },
+  {
+    "tconst": "tt1981115",
+    "title": "Thor: The Dark World",
+    "originalTitle": "Thor: The Dark World",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageRating": 6.7,
+    "numVotes": 781822,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Thor%3A+The+Dark+World",
+    "id": 165
+  },
+  {
+    "tconst": "tt2802144",
+    "title": "Kingsman: The Secret Service",
+    "originalTitle": "Kingsman: The Secret Service",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "averageRating": 7.7,
+    "numVotes": 779986,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Kingsman%3A+The+Secret+Service",
+    "id": 166
+  },
+  {
+    "tconst": "tt1951264",
+    "title": "The Hunger Games: Catching Fire",
+    "originalTitle": "The Hunger Games: Catching Fire",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Romance"
+    ],
+    "averageRating": 7.5,
+    "numVotes": 777547,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Hunger+Games%3A+Catching+Fire",
+    "id": 167
+  },
+  {
+    "tconst": "tt8579674",
+    "title": "1917",
+    "originalTitle": "1917",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "averageRating": 8.2,
+    "numVotes": 777019,
+    "posterUrl": "https://via.placeholder.com/200x300?text=1917",
+    "id": 168
+  },
+  {
+    "tconst": "tt1074638",
+    "title": "Skyfall",
+    "originalTitle": "Skyfall",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "averageRating": 7.8,
+    "numVotes": 776143,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Skyfall",
+    "id": 169
+  },
+  {
+    "tconst": "tt1045658",
+    "title": "Silver Linings Playbook",
+    "originalTitle": "Silver Linings Playbook",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "averageRating": 7.7,
+    "numVotes": 775179,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Silver+Linings+Playbook",
+    "id": 170
+  },
+  {
+    "tconst": "tt1670345",
+    "title": "Now You See Me",
+    "originalTitle": "Now You See Me",
+    "year": 2013,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "averageRating": 7.2,
+    "numVotes": 774231,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Now+You+See+Me",
+    "id": 171
+  },
+  {
+    "tconst": "tt0078788",
+    "title": "Apocalypse Now",
+    "originalTitle": "Apocalypse Now",
+    "year": 1979,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "War"
+    ],
+    "averageRating": 8.4,
+    "numVotes": 773382,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Apocalypse+Now",
+    "id": 172
+  },
+  {
+    "tconst": "tt15239678",
+    "title": "Dune: Part Two",
+    "originalTitle": "Dune: Part Two",
+    "year": 2024,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "averageRating": 8.4,
+    "numVotes": 773347,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Dune%3A+Part+Two",
+    "id": 173
+  },
+  {
+    "tconst": "tt0304141",
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "originalTitle": "Harry Potter and the Prisoner of Azkaban",
+    "year": 2004,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "averageRating": 7.9,
+    "numVotes": 771398,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Harry+Potter+and+the+Prisoner+of+Azkaban",
+    "id": 174
+  },
+  {
+    "tconst": "tt0948470",
+    "title": "The Amazing Spider-Man",
+    "originalTitle": "The Amazing Spider-Man",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "averageRating": 6.9,
+    "numVotes": 771027,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Amazing+Spider-Man",
+    "id": 175
+  },
+  {
+    "tconst": "tt0117951",
+    "title": "Trainspotting",
+    "originalTitle": "Trainspotting",
+    "year": 1996,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "averageRating": 8.1,
+    "numVotes": 770523,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Trainspotting",
+    "id": 176
+  },
+  {
+    "tconst": "tt0295297",
+    "title": "Harry Potter and the Chamber of Secrets",
+    "originalTitle": "Harry Potter and the Chamber of Secrets",
+    "year": 2002,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "averageRating": 7.5,
+    "numVotes": 770369,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Harry+Potter+and+the+Chamber+of+Secrets",
+    "id": 177
+  },
+  {
+    "tconst": "tt3783958",
+    "title": "La La Land",
+    "originalTitle": "La La Land",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "averageRating": 8.0,
+    "numVotes": 769104,
+    "posterUrl": "https://via.placeholder.com/200x300?text=La+La+Land",
+    "id": 178
+  },
+  {
+    "tconst": "tt0405159",
+    "title": "Million Dollar Baby",
+    "originalTitle": "Million Dollar Baby",
+    "year": 2004,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "averageRating": 8.1,
+    "numVotes": 769032,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Million+Dollar+Baby",
+    "id": 179
+  },
+  {
+    "tconst": "tt0780504",
+    "title": "Drive",
+    "originalTitle": "Drive",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "averageRating": 7.8,
+    "numVotes": 767601,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Drive",
+    "id": 180
+  },
+  {
+    "tconst": "tt1270798",
+    "title": "X-Men: First Class",
+    "originalTitle": "X: First Class",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.7,
+    "numVotes": 766703,
+    "posterUrl": "https://via.placeholder.com/200x300?text=X-Men%3A+First+Class",
+    "id": 181
+  },
+  {
+    "tconst": "tt1386697",
+    "title": "Suicide Squad",
+    "originalTitle": "Suicide Squad",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageRating": 5.9,
+    "numVotes": 762283,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Suicide+Squad",
+    "id": 182
+  },
+  {
+    "tconst": "tt3748528",
+    "title": "Rogue One: A Star Wars Story",
+    "originalTitle": "Rogue One",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.8,
+    "numVotes": 760490,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Rogue+One%3A+A+Star+Wars+Story",
+    "id": 183
+  },
+  {
+    "tconst": "tt1856101",
+    "title": "Blade Runner 2049",
+    "originalTitle": "Blade Runner 2049",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery"
+    ],
+    "averageRating": 8.0,
+    "numVotes": 759780,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Blade+Runner+2049",
+    "id": 184
+  },
+  {
+    "tconst": "tt0330373",
+    "title": "Harry Potter and the Goblet of Fire",
+    "originalTitle": "Harry Potter and the Goblet of Fire",
+    "year": 2005,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "averageRating": 7.7,
+    "numVotes": 757909,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Harry+Potter+and+the+Goblet+of+Fire",
+    "id": 185
+  },
+  {
+    "tconst": "tt1170358",
+    "title": "The Hobbit: The Desolation of Smaug",
+    "originalTitle": "The Hobbit: The Desolation of Smaug",
+    "year": 2013,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageRating": 7.8,
+    "numVotes": 756760,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Hobbit%3A+The+Desolation+of+Smaug",
+    "id": 186
+  },
+  {
+    "tconst": "tt1136608",
+    "title": "District 9",
+    "originalTitle": "District 9",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "averageRating": 7.9,
+    "numVotes": 754760,
+    "posterUrl": "https://via.placeholder.com/200x300?text=District+9",
+    "id": 187
+  },
+  {
+    "tconst": "tt0421715",
+    "title": "The Curious Case of Benjamin Button",
+    "originalTitle": "The Curious Case of Benjamin Button",
+    "year": 2008,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "averageRating": 7.8,
+    "numVotes": 749402,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Curious+Case+of+Benjamin+Button",
+    "id": 188
+  },
+  {
+    "tconst": "tt0381061",
+    "title": "Casino Royale",
+    "originalTitle": "Casino Royale",
+    "year": 2006,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "averageRating": 8.0,
+    "numVotes": 749365,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Casino+Royale",
+    "id": 189
+  },
+  {
+    "tconst": "tt5463162",
+    "title": "Deadpool 2",
+    "originalTitle": "Deadpool 2",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "averageRating": 7.6,
+    "numVotes": 749316,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Deadpool+2",
+    "id": 190
+  },
+  {
+    "tconst": "tt0457430",
+    "title": "Pan's Labyrinth",
+    "originalTitle": "El laberinto del fauno",
+    "year": 2006,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "War"
+    ],
+    "averageRating": 8.2,
+    "numVotes": 749240,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Pan%27s+Labyrinth",
+    "id": 191
+  },
+  {
+    "tconst": "tt0099785",
+    "title": "Home Alone",
+    "originalTitle": "Home Alone",
+    "year": 1990,
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "averageRating": 7.8,
+    "numVotes": 748892,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Home+Alone",
+    "id": 192
+  },
+  {
+    "tconst": "tt0449088",
+    "title": "Pirates of the Caribbean: At World's End",
+    "originalTitle": "Pirates of the Caribbean: At World's End",
+    "year": 2007,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageRating": 7.2,
+    "numVotes": 747770,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Pirates+of+the+Caribbean%3A+At+World%27s+End",
+    "id": 193
+  },
+  {
+    "tconst": "tt0073195",
+    "title": "Jaws",
+    "originalTitle": "Jaws",
+    "year": 1975,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Horror"
+    ],
+    "averageRating": 8.1,
+    "numVotes": 743056,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Jaws",
+    "id": 194
+  },
+  {
+    "tconst": "tt0107048",
+    "title": "Groundhog Day",
+    "originalTitle": "Groundhog Day",
+    "year": 1993,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "averageRating": 8.0,
+    "numVotes": 738079,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Groundhog+Day",
+    "id": 195
+  },
+  {
+    "tconst": "tt0451279",
+    "title": "Wonder Woman",
+    "originalTitle": "Wonder Woman",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageRating": 7.3,
+    "numVotes": 737794,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Wonder+Woman",
+    "id": 196
+  },
+  {
+    "tconst": "tt1504320",
+    "title": "The King's Speech",
+    "originalTitle": "The King's Speech",
+    "year": 2010,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "averageRating": 8.0,
+    "numVotes": 734531,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+King%27s+Speech",
+    "id": 197
+  },
+  {
+    "tconst": "tt0369610",
+    "title": "Jurassic World",
+    "originalTitle": "Jurassic World",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 6.9,
+    "numVotes": 732839,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Jurassic+World",
+    "id": 198
+  },
+  {
+    "tconst": "tt1798709",
+    "title": "Her",
+    "originalTitle": "Her",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "averageRating": 8.0,
+    "numVotes": 729756,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Her",
+    "id": 199
+  },
+  {
+    "tconst": "tt3460252",
+    "title": "The Hateful Eight",
+    "originalTitle": "The Hateful Eight",
+    "year": 2015,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "averageRating": 7.8,
+    "numVotes": 725796,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Hateful+Eight",
+    "id": 200
+  },
+  {
+    "tconst": "tt0364569",
+    "title": "Oldboy",
+    "originalTitle": "Oldeuboi",
+    "year": 2003,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery"
+    ],
+    "averageRating": 8.3,
+    "numVotes": 724460,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Oldboy",
+    "id": 201
+  },
+  {
+    "tconst": "tt2527336",
+    "title": "Star Wars: Episode VIII - The Last Jedi",
+    "originalTitle": "Star Wars: Episode VIII - The Last Jedi",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageRating": 6.8,
+    "numVotes": 722359,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Star+Wars%3A+Episode+VIII+-+The+Last+Jedi",
+    "id": 202
+  },
+  {
+    "tconst": "tt0418279",
+    "title": "Transformers",
+    "originalTitle": "Transformers",
+    "year": 2007,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.1,
+    "numVotes": 722029,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Transformers",
+    "id": 203
+  },
+  {
+    "tconst": "tt2294629",
+    "title": "Frozen",
+    "originalTitle": "Frozen",
+    "year": 2013,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "averageRating": 7.4,
+    "numVotes": 716803,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Frozen",
+    "id": 204
+  },
+  {
+    "tconst": "tt2380307",
+    "title": "Coco",
+    "originalTitle": "Coco",
+    "year": 2017,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Drama"
+    ],
+    "averageRating": 8.4,
+    "numVotes": 715721,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Coco",
+    "id": 205
+  },
+  {
+    "tconst": "tt1637725",
+    "title": "Ted",
+    "originalTitle": "Ted",
+    "year": 2012,
+    "genres": [
+      "Comedy"
+    ],
+    "averageRating": 6.9,
+    "numVotes": 713650,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Ted",
+    "id": 206
+  },
+  {
+    "tconst": "tt0469494",
+    "title": "There Will Be Blood",
+    "originalTitle": "There Will Be Blood",
+    "year": 2007,
+    "genres": [
+      "Drama"
+    ],
+    "averageRating": 8.2,
+    "numVotes": 713042,
+    "posterUrl": "https://via.placeholder.com/200x300?text=There+Will+Be+Blood",
+    "id": 207
+  },
+  {
+    "tconst": "tt0988045",
+    "title": "Sherlock Holmes",
+    "originalTitle": "Sherlock Holmes",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery"
+    ],
+    "averageRating": 7.5,
+    "numVotes": 708516,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Sherlock+Holmes",
+    "id": 208
+  },
+  {
+    "tconst": "tt0413300",
+    "title": "Spider-Man 3",
+    "originalTitle": "Spider-Man 3",
+    "year": 2007,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 6.3,
+    "numVotes": 704995,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Spider-Man+3",
+    "id": 209
+  },
+  {
+    "tconst": "tt0373889",
+    "title": "Harry Potter and the Order of the Phoenix",
+    "originalTitle": "Harry Potter and the Order of the Phoenix",
+    "year": 2007,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "averageRating": 7.5,
+    "numVotes": 704686,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Harry+Potter+and+the+Order+of+the+Phoeni",
+    "id": 210
+  },
+  {
+    "tconst": "tt1446714",
+    "title": "Prometheus",
+    "originalTitle": "Prometheus",
+    "year": 2012,
+    "genres": [
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.0,
+    "numVotes": 703010,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Prometheus",
+    "id": 211
+  },
+  {
+    "tconst": "tt0454876",
+    "title": "Life of Pi",
+    "originalTitle": "Life of Pi",
+    "year": 2012,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "averageRating": 7.9,
+    "numVotes": 702581,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Life+of+Pi",
+    "id": 212
+  },
+  {
+    "tconst": "tt1396484",
+    "title": "It",
+    "originalTitle": "It",
+    "year": 2017,
+    "genres": [
+      "Horror"
+    ],
+    "averageRating": 7.3,
+    "numVotes": 702115,
+    "posterUrl": "https://via.placeholder.com/200x300?text=It",
+    "id": 213
+  },
+  {
+    "tconst": "tt2562232",
+    "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+    "originalTitle": "Birdman or (The Unexpected Virtue of Ignorance)",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "averageRating": 7.7,
+    "numVotes": 700624,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Birdman+or+%28The+Unexpected+Virtue+of+Ign",
+    "id": 214
+  },
+  {
+    "tconst": "tt0829482",
+    "title": "Superbad",
+    "originalTitle": "Superbad",
+    "year": 2007,
+    "genres": [
+      "Comedy"
+    ],
+    "averageRating": 7.6,
+    "numVotes": 698326,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Superbad",
+    "id": 215
+  },
+  {
+    "tconst": "tt0758758",
+    "title": "Into the Wild",
+    "originalTitle": "Into the Wild",
+    "year": 2007,
+    "genres": [
+      "Adventure",
+      "Biography",
+      "Drama"
+    ],
+    "averageRating": 8.0,
+    "numVotes": 697206,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Into+the+Wild",
+    "id": 216
+  },
+  {
+    "tconst": "tt1517268",
+    "title": "Barbie",
+    "originalTitle": "Barbie",
+    "year": 2023,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "averageRating": 6.8,
+    "numVotes": 697013,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Barbie",
+    "id": 217
+  },
+  {
+    "tconst": "tt0332280",
+    "title": "The Notebook",
+    "originalTitle": "The Notebook",
+    "year": 2004,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "averageRating": 7.8,
+    "numVotes": 695138,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Notebook",
+    "id": 218
+  },
+  {
+    "tconst": "tt0120903",
+    "title": "X-Men",
+    "originalTitle": "X-Men",
+    "year": 2000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.3,
+    "numVotes": 694589,
+    "posterUrl": "https://via.placeholder.com/200x300?text=X-Men",
+    "id": 219
+  },
+  {
+    "tconst": "tt0075148",
+    "title": "Rocky",
+    "originalTitle": "Rocky",
+    "year": 1976,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "averageRating": 8.1,
+    "numVotes": 694045,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Rocky",
+    "id": 220
+  },
+  {
+    "tconst": "tt6966692",
+    "title": "Green Book",
+    "originalTitle": "Green Book",
+    "year": 2018,
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ],
+    "averageRating": 8.2,
+    "numVotes": 693622,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Green+Book",
+    "id": 221
+  },
+  {
+    "tconst": "tt0162222",
+    "title": "Cast Away",
+    "originalTitle": "Cast Away",
+    "year": 2000,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Romance"
+    ],
+    "averageRating": 7.8,
+    "numVotes": 691829,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Cast+Away",
+    "id": 222
+  },
+  {
+    "tconst": "tt6723592",
+    "title": "Tenet",
+    "originalTitle": "Tenet",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "averageRating": 7.3,
+    "numVotes": 691289,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Tenet",
+    "id": 223
+  },
+  {
+    "tconst": "tt3890160",
+    "title": "Baby Driver",
+    "originalTitle": "Baby Driver",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "averageRating": 7.5,
+    "numVotes": 688942,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Baby+Driver",
+    "id": 224
+  },
+  {
+    "tconst": "tt2119532",
+    "title": "Hacksaw Ridge",
+    "originalTitle": "Hacksaw Ridge",
+    "year": 2016,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "averageRating": 8.1,
+    "numVotes": 687363,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Hacksaw+Ridge",
+    "id": 225
+  },
+  {
+    "tconst": "tt0440963",
+    "title": "The Bourne Ultimatum",
+    "originalTitle": "The Bourne Ultimatum",
+    "year": 2007,
+    "genres": [
+      "Action",
+      "Mystery",
+      "Thriller"
+    ],
+    "averageRating": 8.0,
+    "numVotes": 685838,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Bourne+Ultimatum",
+    "id": 226
+  },
+  {
+    "tconst": "tt0114746",
+    "title": "12 Monkeys",
+    "originalTitle": "Twelve Monkeys",
+    "year": 1995,
+    "genres": [
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "averageRating": 8.0,
+    "numVotes": 681368,
+    "posterUrl": "https://via.placeholder.com/200x300?text=12+Monkeys",
+    "id": 227
+  },
+  {
+    "tconst": "tt0443706",
+    "title": "Zodiac",
+    "originalTitle": "Zodiac",
+    "year": 2007,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "averageRating": 7.7,
+    "numVotes": 679075,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Zodiac",
+    "id": 228
+  },
+  {
+    "tconst": "tt0120363",
+    "title": "Toy Story 2",
+    "originalTitle": "Toy Story 2",
+    "year": 1999,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "averageRating": 7.9,
+    "numVotes": 677634,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Toy+Story+2",
+    "id": 229
+  },
+  {
+    "tconst": "tt0240772",
+    "title": "Ocean's Eleven",
+    "originalTitle": "Ocean's Eleven",
+    "year": 2001,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "averageRating": 7.7,
+    "numVotes": 677501,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Ocean%27s+Eleven",
+    "id": 230
+  },
+  {
+    "tconst": "tt11286314",
+    "title": "Don't Look Up",
+    "originalTitle": "Don't Look Up",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.1,
+    "numVotes": 675409,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Don%27t+Look+Up",
+    "id": 231
+  },
+  {
+    "tconst": "tt0936501",
+    "title": "Taken",
+    "originalTitle": "Taken",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "averageRating": 7.7,
+    "numVotes": 674698,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Taken",
+    "id": 232
+  },
+  {
+    "tconst": "tt2872718",
+    "title": "Nightcrawler",
+    "originalTitle": "Nightcrawler",
+    "year": 2014,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "averageRating": 7.8,
+    "numVotes": 674352,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Nightcrawler",
+    "id": 233
+  },
+  {
+    "tconst": "tt0234215",
+    "title": "The Matrix Reloaded",
+    "originalTitle": "The Matrix Reloaded",
+    "year": 2003,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.2,
+    "numVotes": 673004,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Matrix+Reloaded",
+    "id": 234
+  },
+  {
+    "tconst": "tt1156398",
+    "title": "Zombieland",
+    "originalTitle": "Zombieland",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Horror"
+    ],
+    "averageRating": 7.5,
+    "numVotes": 670576,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Zombieland",
+    "id": 235
+  },
+  {
+    "tconst": "tt1024648",
+    "title": "Argo",
+    "originalTitle": "Argo",
+    "year": 2012,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "averageRating": 7.7,
+    "numVotes": 669399,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Argo",
+    "id": 236
+  },
+  {
+    "tconst": "tt0926084",
+    "title": "Harry Potter and the Deathly Hallows: Part 1",
+    "originalTitle": "Harry Potter and the Deathly Hallows: Part 1",
+    "year": 2010,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "averageRating": 7.7,
+    "numVotes": 668586,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Harry+Potter+and+the+Deathly+Hallows%3A+Pa",
+    "id": 237
+  },
+  {
+    "tconst": "tt0119654",
+    "title": "Men in Black",
+    "originalTitle": "Men in Black",
+    "year": 1997,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "averageRating": 7.3,
+    "numVotes": 667413,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Men+in+Black",
+    "id": 238
+  },
+  {
+    "tconst": "tt0417741",
+    "title": "Harry Potter and the Half-Blood Prince",
+    "originalTitle": "Harry Potter and the Half-Blood Prince",
+    "year": 2009,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "averageRating": 7.6,
+    "numVotes": 664584,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Harry+Potter+and+the+Half-Blood+Prince",
+    "id": 239
+  },
+  {
+    "tconst": "tt6644200",
+    "title": "A Quiet Place",
+    "originalTitle": "A Quiet Place",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.5,
+    "numVotes": 663257,
+    "posterUrl": "https://via.placeholder.com/200x300?text=A+Quiet+Place",
+    "id": 240
+  },
+  {
+    "tconst": "tt4154664",
+    "title": "Captain Marvel",
+    "originalTitle": "Captain Marvel",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 6.7,
+    "numVotes": 662977,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Captain+Marvel",
+    "id": 241
+  },
+  {
+    "tconst": "tt0119488",
+    "title": "L.A. Confidential",
+    "originalTitle": "L.A. Confidential",
+    "year": 1997,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "averageRating": 8.2,
+    "numVotes": 660458,
+    "posterUrl": "https://via.placeholder.com/200x300?text=L.A.+Confidential",
+    "id": 242
+  },
+  {
+    "tconst": "tt0097165",
+    "title": "Dead Poets Society",
+    "originalTitle": "Dead Poets Society",
+    "year": 1989,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "averageRating": 8.1,
+    "numVotes": 659666,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Dead+Poets+Society",
+    "id": 243
+  },
+  {
+    "tconst": "tt0034583",
+    "title": "Casablanca",
+    "originalTitle": "Casablanca",
+    "year": 1942,
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "averageRating": 8.5,
+    "numVotes": 657147,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Casablanca",
+    "id": 244
+  },
+  {
+    "tconst": "tt6710474",
+    "title": "Everything Everywhere All at Once",
+    "originalTitle": "Everything Everywhere All at Once",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "averageRating": 7.7,
+    "numVotes": 655325,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Everything+Everywhere+All+at+Once",
+    "id": 245
+  },
+  {
+    "tconst": "tt0116629",
+    "title": "Independence Day",
+    "originalTitle": "Independence Day",
+    "year": 1996,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.0,
+    "numVotes": 651505,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Independence+Day",
+    "id": 246
+  },
+  {
+    "tconst": "tt1219289",
+    "title": "Limitless",
+    "originalTitle": "Limitless",
+    "year": 2011,
+    "genres": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "averageRating": 7.4,
+    "numVotes": 651018,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Limitless",
+    "id": 247
+  },
+  {
+    "tconst": "tt0120735",
+    "title": "Lock, Stock and Two Smoking Barrels",
+    "originalTitle": "Lock, Stock and Two Smoking Barrels",
+    "year": 1998,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "averageRating": 8.1,
+    "numVotes": 650959,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Lock%2C+Stock+and+Two+Smoking+Barrels",
+    "id": 248
+  },
+  {
+    "tconst": "tt1727824",
+    "title": "Bohemian Rhapsody",
+    "originalTitle": "Bohemian Rhapsody",
+    "year": 2018,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "averageRating": 7.9,
+    "numVotes": 650325,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Bohemian+Rhapsody",
+    "id": 249
+  },
+  {
+    "tconst": "tt1232829",
+    "title": "21 Jump Street",
+    "originalTitle": "21 Jump Street",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "averageRating": 7.2,
+    "numVotes": 650051,
+    "posterUrl": "https://via.placeholder.com/200x300?text=21+Jump+Street",
+    "id": 250
+  },
+  {
+    "tconst": "tt6320628",
+    "title": "Spider-Man: Far from Home",
+    "originalTitle": "Spider-Man: Far from Home",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "averageRating": 7.3,
+    "numVotes": 646510,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Spider-Man%3A+Far+from+Home",
+    "id": 251
+  },
+  {
+    "tconst": "tt1343092",
+    "title": "The Great Gatsby",
+    "originalTitle": "The Great Gatsby",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "averageRating": 7.2,
+    "numVotes": 645632,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Great+Gatsby",
+    "id": 252
+  },
+  {
+    "tconst": "tt2948356",
+    "title": "Zootopia",
+    "originalTitle": "Zootopia",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "averageRating": 8.0,
+    "numVotes": 642735,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Zootopia",
+    "id": 253
+  },
+  {
+    "tconst": "tt0470752",
+    "title": "Ex Machina",
+    "originalTitle": "Ex Machina",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "averageRating": 7.7,
+    "numVotes": 642084,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Ex+Machina",
+    "id": 254
+  },
+  {
+    "tconst": "tt0365748",
+    "title": "Shaun of the Dead",
+    "originalTitle": "Shaun of the Dead",
+    "year": 2004,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "averageRating": 7.8,
+    "numVotes": 641741,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Shaun+of+the+Dead",
+    "id": 255
+  },
+  {
+    "tconst": "tt1630029",
+    "title": "Avatar: The Way of Water",
+    "originalTitle": "Avatar: The Way of Water",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageRating": 7.5,
+    "numVotes": 639806,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Avatar%3A+The+Way+of+Water",
+    "id": 256
+  },
+  {
+    "tconst": "tt0796366",
+    "title": "Star Trek",
+    "originalTitle": "Star Trek",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.9,
+    "numVotes": 639527,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Star+Trek",
+    "id": 257
+  },
+  {
+    "tconst": "tt1323594",
+    "title": "Despicable Me",
+    "originalTitle": "Despicable Me",
+    "year": 2010,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "averageRating": 7.6,
+    "numVotes": 636556,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Despicable+Me",
+    "id": 258
+  },
+  {
+    "tconst": "tt1276104",
+    "title": "Looper",
+    "originalTitle": "Looper",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.4,
+    "numVotes": 630124,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Looper",
+    "id": 259
+  },
+  {
+    "tconst": "tt0450259",
+    "title": "Blood Diamond",
+    "originalTitle": "Blood Diamond",
+    "year": 2006,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Thriller"
+    ],
+    "averageRating": 8.0,
+    "numVotes": 627844,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Blood+Diamond",
+    "id": 260
+  },
+  {
+    "tconst": "tt1457767",
+    "title": "The Conjuring",
+    "originalTitle": "The Conjuring",
+    "year": 2013,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "averageRating": 7.5,
+    "numVotes": 627182,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Conjuring",
+    "id": 261
+  },
+  {
+    "tconst": "tt4972582",
+    "title": "Split",
+    "originalTitle": "Split",
+    "year": 2016,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "averageRating": 7.3,
+    "numVotes": 625595,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Split",
+    "id": 262
+  },
+  {
+    "tconst": "tt0454921",
+    "title": "The Pursuit of Happyness",
+    "originalTitle": "The Pursuit of Happyness",
+    "year": 2006,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "averageRating": 8.0,
+    "numVotes": 625496,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Pursuit+of+Happyness",
+    "id": 263
+  },
+  {
+    "tconst": "tt0096874",
+    "title": "Back to the Future Part II",
+    "originalTitle": "Back to the Future Part II",
+    "year": 1989,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.8,
+    "numVotes": 624940,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Back+to+the+Future+Part+II",
+    "id": 264
+  },
+  {
+    "tconst": "tt1570728",
+    "title": "Crazy, Stupid, Love.",
+    "originalTitle": "Crazy, Stupid, Love.",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "averageRating": 7.4,
+    "numVotes": 623635,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Crazy%2C+Stupid%2C+Love.",
+    "id": 265
+  },
+  {
+    "tconst": "tt0181689",
+    "title": "Minority Report",
+    "originalTitle": "Minority Report",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Crime",
+      "Mystery"
+    ],
+    "averageRating": 7.6,
+    "numVotes": 623475,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Minority+Report",
+    "id": 266
+  },
+  {
+    "tconst": "tt0112641",
+    "title": "Casino",
+    "originalTitle": "Casino",
+    "year": 1995,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "averageRating": 8.2,
+    "numVotes": 623064,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Casino",
+    "id": 267
+  },
+  {
+    "tconst": "tt1022603",
+    "title": "500 Days of Summer",
+    "originalTitle": "(500) Days of Summer",
+    "year": 2009,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "averageRating": 7.6,
+    "numVotes": 622680,
+    "posterUrl": "https://via.placeholder.com/200x300?text=500+Days+of+Summer",
+    "id": 268
+  },
+  {
+    "tconst": "tt1250777",
+    "title": "Kick-Ass",
+    "originalTitle": "Kick-Ass",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "averageRating": 7.6,
+    "numVotes": 622437,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Kick-Ass",
+    "id": 269
+  },
+  {
+    "tconst": "tt0332452",
+    "title": "Troy",
+    "originalTitle": "Troy",
+    "year": 2004,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "averageRating": 7.3,
+    "numVotes": 621737,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Troy",
+    "id": 270
+  },
+  {
+    "tconst": "tt2310332",
+    "title": "The Hobbit: The Battle of the Five Armies",
+    "originalTitle": "The Hobbit: The Battle of the Five Armies",
+    "year": 2014,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageRating": 7.4,
+    "numVotes": 620815,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Hobbit%3A+The+Battle+of+the+Five+Armie",
+    "id": 271
+  },
+  {
+    "tconst": "tt0343818",
+    "title": "I, Robot",
+    "originalTitle": "I, Robot",
+    "year": 2004,
+    "genres": [
+      "Action",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.1,
+    "numVotes": 617260,
+    "posterUrl": "https://via.placeholder.com/200x300?text=I%2C+Robot",
+    "id": 272
+  },
+  {
+    "tconst": "tt0258463",
+    "title": "The Bourne Identity",
+    "originalTitle": "The Bourne Identity",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Mystery",
+      "Thriller"
+    ],
+    "averageRating": 7.8,
+    "numVotes": 616258,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Bourne+Identity",
+    "id": 273
+  },
+  {
+    "tconst": "tt0409459",
+    "title": "Watchmen",
+    "originalTitle": "Watchmen",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery"
+    ],
+    "averageRating": 7.6,
+    "numVotes": 613323,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Watchmen",
+    "id": 274
+  },
+  {
+    "tconst": "tt2713180",
+    "title": "Fury",
+    "originalTitle": "Fury",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "averageRating": 7.6,
+    "numVotes": 612761,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Fury",
+    "id": 275
+  },
+  {
+    "tconst": "tt0290334",
+    "title": "X2: X-Men United",
+    "originalTitle": "X2",
+    "year": 2003,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "averageRating": 7.4,
+    "numVotes": 612658,
+    "posterUrl": "https://via.placeholder.com/200x300?text=X2%3A+X-Men+United",
+    "id": 276
+  },
+  {
+    "tconst": "tt5027774",
+    "title": "Three Billboards Outside Ebbing, Missouri",
+    "originalTitle": "Three Billboards Outside Ebbing, Missouri",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "averageRating": 8.1,
+    "numVotes": 611127,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Three+Billboards+Outside+Ebbing%2C+Missour",
+    "id": 277
+  },
+  {
+    "tconst": "tt1270797",
+    "title": "Venom",
+    "originalTitle": "Venom",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 6.6,
+    "numVotes": 610365,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Venom",
+    "id": 278
+  },
+  {
+    "tconst": "tt1298650",
+    "title": "Pirates of the Caribbean: On Stranger Tides",
+    "originalTitle": "Pirates of the Caribbean: On Stranger Tides",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageRating": 6.6,
+    "numVotes": 610136,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Pirates+of+the+Caribbean%3A+On+Stranger+Ti",
+    "id": 279
+  },
+  {
+    "tconst": "tt1318514",
+    "title": "Rise of the Planet of the Apes",
+    "originalTitle": "Rise of the Planet of the Apes",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.6,
+    "numVotes": 607462,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Rise+of+the+Planet+of+the+Apes",
+    "id": 280
+  },
+  {
+    "tconst": "tt0071853",
+    "title": "Monty Python and the Holy Grail",
+    "originalTitle": "Monty Python and the Holy Grail",
+    "year": 1975,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "averageRating": 8.1,
+    "numVotes": 604818,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Monty+Python+and+the+Holy+Grail",
+    "id": 281
+  },
+  {
+    "tconst": "tt1659337",
+    "title": "The Perks of Being a Wallflower",
+    "originalTitle": "The Perks of Being a Wallflower",
+    "year": 2012,
+    "genres": [
+      "Drama"
+    ],
+    "averageRating": 7.9,
+    "numVotes": 600708,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Perks+of+Being+a+Wallflower",
+    "id": 282
+  },
+  {
+    "tconst": "tt0356910",
+    "title": "Mr. & Mrs. Smith",
+    "originalTitle": "Mr. & Mrs. Smith",
+    "year": 2005,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "averageRating": 6.5,
+    "numVotes": 597391,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Mr.+%26+Mrs.+Smith",
+    "id": 283
+  },
+  {
+    "tconst": "tt1872181",
+    "title": "The Amazing Spider-Man 2",
+    "originalTitle": "The Amazing Spider-Man 2",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 6.6,
+    "numVotes": 595119,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Amazing+Spider-Man+2",
+    "id": 284
+  },
+  {
+    "tconst": "tt1483013",
+    "title": "Oblivion",
+    "originalTitle": "Oblivion",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.0,
+    "numVotes": 588097,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Oblivion",
+    "id": 285
+  },
+  {
+    "tconst": "tt0095953",
+    "title": "Rain Man",
+    "originalTitle": "Rain Man",
+    "year": 1988,
+    "genres": [
+      "Drama"
+    ],
+    "averageRating": 8.0,
+    "numVotes": 586592,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Rain+Man",
+    "id": 286
+  },
+  {
+    "tconst": "tt0945513",
+    "title": "Source Code",
+    "originalTitle": "Source Code",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery"
+    ],
+    "averageRating": 7.5,
+    "numVotes": 584902,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Source+Code",
+    "id": 287
+  },
+  {
+    "tconst": "tt0441773",
+    "title": "Kung Fu Panda",
+    "originalTitle": "Kung Fu Panda",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "averageRating": 7.6,
+    "numVotes": 584572,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Kung+Fu+Panda",
+    "id": 288
+  },
+  {
+    "tconst": "tt2872732",
+    "title": "Lucy",
+    "originalTitle": "Lucy",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "averageRating": 6.4,
+    "numVotes": 582199,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Lucy",
+    "id": 289
+  },
+  {
+    "tconst": "tt0314331",
+    "title": "Love Actually",
+    "originalTitle": "Love Actually",
+    "year": 2003,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "averageRating": 7.5,
+    "numVotes": 582006,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Love+Actually",
+    "id": 290
+  },
+  {
+    "tconst": "tt1411697",
+    "title": "The Hangover Part II",
+    "originalTitle": "The Hangover Part II",
+    "year": 2011,
+    "genres": [
+      "Comedy"
+    ],
+    "averageRating": 6.5,
+    "numVotes": 581023,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Hangover+Part+II",
+    "id": 291
+  },
+  {
+    "tconst": "tt10811166",
+    "title": "The Kashmir Files",
+    "originalTitle": "The Kashmir Files",
+    "year": 2022,
+    "genres": [
+      "Drama"
+    ],
+    "averageRating": 8.5,
+    "numVotes": 579391,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Kashmir+Files",
+    "id": 292
+  },
+  {
+    "tconst": "tt1950186",
+    "title": "Ford v Ferrari",
+    "originalTitle": "Ford v Ferrari",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Biography",
+      "Drama"
+    ],
+    "averageRating": 8.1,
+    "numVotes": 577607,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Ford+v+Ferrari",
+    "id": 293
+  },
+  {
+    "tconst": "tt0242653",
+    "title": "The Matrix Revolutions",
+    "originalTitle": "The Matrix Revolutions",
+    "year": 2003,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "averageRating": 6.7,
+    "numVotes": 577292,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Matrix+Revolutions",
+    "id": 294
+  },
+  {
+    "tconst": "tt6263850",
+    "title": "Deadpool & Wolverine",
+    "originalTitle": "Deadpool & Wolverine",
+    "year": 2024,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "averageRating": 7.5,
+    "numVotes": 577079,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Deadpool+%26+Wolverine",
+    "id": 295
+  },
+  {
+    "tconst": "tt0376994",
+    "title": "X-Men: The Last Stand",
+    "originalTitle": "X-Men: The Last Stand",
+    "year": 2006,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 6.6,
+    "numVotes": 574166,
+    "posterUrl": "https://via.placeholder.com/200x300?text=X-Men%3A+The+Last+Stand",
+    "id": 296
+  },
+  {
+    "tconst": "tt0367594",
+    "title": "Charlie and the Chocolate Factory",
+    "originalTitle": "Charlie and the Chocolate Factory",
+    "year": 2005,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "averageRating": 6.7,
+    "numVotes": 574041,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Charlie+and+the+Chocolate+Factory",
+    "id": 297
+  },
+  {
+    "tconst": "tt4425200",
+    "title": "John Wick: Chapter 2",
+    "originalTitle": "John Wick: Chapter 2",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "averageRating": 7.4,
+    "numVotes": 573887,
+    "posterUrl": "https://via.placeholder.com/200x300?text=John+Wick%3A+Chapter+2",
+    "id": 298
+  },
+  {
+    "tconst": "tt0467406",
+    "title": "Juno",
+    "originalTitle": "Juno",
+    "year": 2007,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "averageRating": 7.4,
+    "numVotes": 573522,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Juno",
+    "id": 299
+  },
+  {
+    "tconst": "tt2179136",
+    "title": "American Sniper",
+    "originalTitle": "American Sniper",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Biography",
+      "Drama"
+    ],
+    "averageRating": 7.3,
+    "numVotes": 572235,
+    "posterUrl": "https://via.placeholder.com/200x300?text=American+Sniper",
+    "id": 300
+  },
+  {
+    "tconst": "tt0087469",
+    "title": "Indiana Jones and the Temple of Doom",
+    "originalTitle": "Indiana Jones and the Temple of Doom",
+    "year": 1984,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "averageRating": 7.5,
+    "numVotes": 570669,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Indiana+Jones+and+the+Temple+of+Doom",
+    "id": 301
+  },
+  {
+    "tconst": "tt0047396",
+    "title": "Rear Window",
+    "originalTitle": "Rear Window",
+    "year": 1954,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "averageRating": 8.4,
+    "numVotes": 570510,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Rear+Window",
+    "id": 302
+  },
+  {
+    "tconst": "tt0458525",
+    "title": "X-Men Origins: Wolverine",
+    "originalTitle": "X-Men Origins: Wolverine",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "averageRating": 6.5,
+    "numVotes": 569989,
+    "posterUrl": "https://via.placeholder.com/200x300?text=X-Men+Origins%3A+Wolverine",
+    "id": 303
+  },
+  {
+    "tconst": "tt0425112",
+    "title": "Hot Fuzz",
+    "originalTitle": "Hot Fuzz",
+    "year": 2007,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Mystery"
+    ],
+    "averageRating": 7.8,
+    "numVotes": 569744,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Hot+Fuzz",
+    "id": 304
+  },
+  {
+    "tconst": "tt0206634",
+    "title": "Children of Men",
+    "originalTitle": "Children of Men",
+    "year": 2006,
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "averageRating": 7.9,
+    "numVotes": 568545,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Children+of+Men",
+    "id": 305
+  },
+  {
+    "tconst": "tt0800080",
+    "title": "The Incredible Hulk",
+    "originalTitle": "The Incredible Hulk",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "averageRating": 6.6,
+    "numVotes": 567995,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Incredible+Hulk",
+    "id": 306
+  },
+  {
+    "tconst": "tt0268380",
+    "title": "Ice Age",
+    "originalTitle": "Ice Age",
+    "year": 2002,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "averageRating": 7.5,
+    "numVotes": 567969,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Ice+Age",
+    "id": 307
+  },
+  {
+    "tconst": "tt0099487",
+    "title": "Edward Scissorhands",
+    "originalTitle": "Edward Scissorhands",
+    "year": 1990,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "averageRating": 7.8,
+    "numVotes": 567374,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Edward+Scissorhands",
+    "id": 308
+  },
+  {
+    "tconst": "tt1229238",
+    "title": "Mission: Impossible - Ghost Protocol",
+    "originalTitle": "Mission: Impossible - Ghost Protocol",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "averageRating": 7.4,
+    "numVotes": 567057,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Mission%3A+Impossible+-+Ghost+Protocol",
+    "id": 309
+  },
+  {
+    "tconst": "tt1790864",
+    "title": "The Maze Runner",
+    "originalTitle": "The Maze Runner",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "averageRating": 6.8,
+    "numVotes": 566626,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Maze+Runner",
+    "id": 310
+  },
+  {
+    "tconst": "tt1979320",
+    "title": "Rush",
+    "originalTitle": "Rush",
+    "year": 2013,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "averageRating": 8.1,
+    "numVotes": 562144,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Rush",
+    "id": 311
+  },
+  {
+    "tconst": "tt0449059",
+    "title": "Little Miss Sunshine",
+    "originalTitle": "Little Miss Sunshine",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "averageRating": 7.8,
+    "numVotes": 561747,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Little+Miss+Sunshine",
+    "id": 312
+  },
+  {
+    "tconst": "tt1663662",
+    "title": "Pacific Rim",
+    "originalTitle": "Pacific Rim",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 6.9,
+    "numVotes": 561118,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Pacific+Rim",
+    "id": 313
+  },
+  {
+    "tconst": "tt0458352",
+    "title": "The Devil Wears Prada",
+    "originalTitle": "The Devil Wears Prada",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "averageRating": 7.0,
+    "numVotes": 560974,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Devil+Wears+Prada",
+    "id": 314
+  },
+  {
+    "tconst": "tt0298148",
+    "title": "Shrek 2",
+    "originalTitle": "Shrek 2",
+    "year": 2004,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "averageRating": 7.4,
+    "numVotes": 559066,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Shrek+2",
+    "id": 315
+  },
+  {
+    "tconst": "tt0289879",
+    "title": "The Butterfly Effect",
+    "originalTitle": "The Butterfly Effect",
+    "year": 2004,
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "averageRating": 7.6,
+    "numVotes": 557516,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Butterfly+Effect",
+    "id": 316
+  },
+  {
+    "tconst": "tt2245084",
+    "title": "Big Hero 6",
+    "originalTitle": "Big Hero 6",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "averageRating": 7.8,
+    "numVotes": 557425,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Big+Hero+6",
+    "id": 317
+  },
+  {
+    "tconst": "tt0092099",
+    "title": "Top Gun",
+    "originalTitle": "Top Gun",
+    "year": 1986,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "averageRating": 7.0,
+    "numVotes": 556657,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Top+Gun",
+    "id": 318
+  },
+  {
+    "tconst": "tt0038650",
+    "title": "It's a Wonderful Life",
+    "originalTitle": "It's a Wonderful Life",
+    "year": 1946,
+    "genres": [
+      "Drama",
+      "Family",
+      "Fantasy"
+    ],
+    "averageRating": 8.6,
+    "numVotes": 555864,
+    "posterUrl": "https://via.placeholder.com/200x300?text=It%27s+a+Wonderful+Life",
+    "id": 319
+  },
+  {
+    "tconst": "tt1477834",
+    "title": "Aquaman",
+    "originalTitle": "Aquaman",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageRating": 6.8,
+    "numVotes": 555841,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Aquaman",
+    "id": 320
+  },
+  {
+    "tconst": "tt0057012",
+    "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "originalTitle": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "year": 1964,
+    "genres": [
+      "Comedy",
+      "War"
+    ],
+    "averageRating": 8.3,
+    "numVotes": 551979,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Dr.+Strangelove+or%3A+How+I+Learned+to+Sto",
+    "id": 321
+  },
+  {
+    "tconst": "tt0289043",
+    "title": "28 Days Later",
+    "originalTitle": "28 Days Later",
+    "year": 2002,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.5,
+    "numVotes": 551236,
+    "posterUrl": "https://via.placeholder.com/200x300?text=28+Days+Later",
+    "id": 322
+  },
+  {
+    "tconst": "tt0790636",
+    "title": "Dallas Buyers Club",
+    "originalTitle": "Dallas Buyers Club",
+    "year": 2013,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "averageRating": 7.9,
+    "numVotes": 550294,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Dallas+Buyers+Club",
+    "id": 323
+  },
+  {
+    "tconst": "tt9419884",
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "originalTitle": "Doctor Strange in the Multiverse of Madness",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageRating": 6.8,
+    "numVotes": 549513,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Doctor+Strange+in+the+Multiverse+of+Madn",
+    "id": 324
+  },
+  {
+    "tconst": "tt1951265",
+    "title": "The Hunger Games: Mockingjay - Part 1",
+    "originalTitle": "The Hunger Games: Mockingjay - Part 1",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 6.6,
+    "numVotes": 549344,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Hunger+Games%3A+Mockingjay+-+Part+1",
+    "id": 325
+  },
+  {
+    "tconst": "tt0398286",
+    "title": "Tangled",
+    "originalTitle": "Tangled",
+    "year": 2010,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "averageRating": 7.7,
+    "numVotes": 549070,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Tangled",
+    "id": 326
+  },
+  {
+    "tconst": "tt0119116",
+    "title": "The Fifth Element",
+    "originalTitle": "Le cinquième élément",
+    "year": 1997,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.6,
+    "numVotes": 548078,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Fifth+Element",
+    "id": 327
+  },
+  {
+    "tconst": "tt1677720",
+    "title": "Ready Player One",
+    "originalTitle": "Ready Player One",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.4,
+    "numVotes": 546176,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Ready+Player+One",
+    "id": 328
+  },
+  {
+    "tconst": "tt2527338",
+    "title": "Star Wars: Episode IX - The Rise of Skywalker",
+    "originalTitle": "Star Wars: Episode IX - The Rise of Skywalker",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageRating": 6.3,
+    "numVotes": 546113,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Star+Wars%3A+Episode+IX+-+The+Rise+of+Skyw",
+    "id": 329
+  },
+  {
+    "tconst": "tt3397884",
+    "title": "Sicario",
+    "originalTitle": "Sicario",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "averageRating": 7.7,
+    "numVotes": 542983,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Sicario",
+    "id": 330
+  },
+  {
+    "tconst": "tt1596363",
+    "title": "The Big Short",
+    "originalTitle": "The Big Short",
+    "year": 2015,
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ],
+    "averageRating": 7.8,
+    "numVotes": 542850,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Big+Short",
+    "id": 331
+  },
+  {
+    "tconst": "tt3183660",
+    "title": "Fantastic Beasts and Where to Find Them",
+    "originalTitle": "Fantastic Beasts and Where to Find Them",
+    "year": 2016,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "averageRating": 7.2,
+    "numVotes": 542492,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Fantastic+Beasts+and+Where+to+Find+Them",
+    "id": 332
+  },
+  {
+    "tconst": "tt0317219",
+    "title": "Cars",
+    "originalTitle": "Cars",
+    "year": 2006,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "averageRating": 7.3,
+    "numVotes": 541745,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Cars",
+    "id": 333
+  },
+  {
+    "tconst": "tt12593682",
+    "title": "Bullet Train",
+    "originalTitle": "Bullet Train",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Thriller"
+    ],
+    "averageRating": 7.3,
+    "numVotes": 541113,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Bullet+Train",
+    "id": 334
+  },
+  {
+    "tconst": "tt0448157",
+    "title": "Hancock",
+    "originalTitle": "Hancock",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ],
+    "averageRating": 6.4,
+    "numVotes": 540986,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Hancock",
+    "id": 335
+  },
+  {
+    "tconst": "tt0362227",
+    "title": "The Terminal",
+    "originalTitle": "The Terminal",
+    "year": 2004,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "averageRating": 7.4,
+    "numVotes": 538309,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Terminal",
+    "id": 336
+  },
+  {
+    "tconst": "tt1895587",
+    "title": "Spotlight",
+    "originalTitle": "Spotlight",
+    "year": 2015,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "averageRating": 8.1,
+    "numVotes": 537515,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Spotlight",
+    "id": 337
+  },
+  {
+    "tconst": "tt9362722",
+    "title": "Spider-Man: Across the Spider-Verse",
+    "originalTitle": "Spider-Man: Across the Spider-Verse",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "averageRating": 8.5,
+    "numVotes": 534740,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Spider-Man%3A+Across+the+Spider-Verse",
+    "id": 338
+  },
+  {
+    "tconst": "tt0335266",
+    "title": "Lost in Translation",
+    "originalTitle": "Lost in Translation",
+    "year": 2003,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "averageRating": 7.7,
+    "numVotes": 531778,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Lost+in+Translation",
+    "id": 339
+  },
+  {
+    "tconst": "tt1291584",
+    "title": "Warrior",
+    "originalTitle": "Warrior",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sport"
+    ],
+    "averageRating": 8.1,
+    "numVotes": 530783,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Warrior",
+    "id": 340
+  },
+  {
+    "tconst": "tt1568346",
+    "title": "The Girl with the Dragon Tattoo",
+    "originalTitle": "The Girl with the Dragon Tattoo",
+    "year": 2011,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "averageRating": 7.8,
+    "numVotes": 530418,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Girl+with+the+Dragon+Tattoo",
+    "id": 341
+  },
+  {
+    "tconst": "tt1454029",
+    "title": "The Help",
+    "originalTitle": "The Help",
+    "year": 2011,
+    "genres": [
+      "Drama"
+    ],
+    "averageRating": 8.1,
+    "numVotes": 530299,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Help",
+    "id": 342
+  },
+  {
+    "tconst": "tt1099212",
+    "title": "Twilight",
+    "originalTitle": "Twilight",
+    "year": 2008,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "averageRating": 5.4,
+    "numVotes": 529667,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Twilight",
+    "id": 343
+  },
+  {
+    "tconst": "tt0084787",
+    "title": "The Thing",
+    "originalTitle": "The Thing",
+    "year": 1982,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "averageRating": 8.2,
+    "numVotes": 529638,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Thing",
+    "id": 344
+  },
+  {
+    "tconst": "tt11564570",
+    "title": "Glass Onion",
+    "originalTitle": "Glass Onion",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "averageRating": 7.1,
+    "numVotes": 528238,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Glass+Onion",
+    "id": 345
+  },
+  {
+    "tconst": "tt1723121",
+    "title": "We're the Millers",
+    "originalTitle": "We're the Millers",
+    "year": 2013,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "averageRating": 7.0,
+    "numVotes": 527077,
+    "posterUrl": "https://via.placeholder.com/200x300?text=We%27re+the+Millers",
+    "id": 346
+  },
+  {
+    "tconst": "tt1430132",
+    "title": "The Wolverine",
+    "originalTitle": "The Wolverine",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "averageRating": 6.7,
+    "numVotes": 525726,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Wolverine",
+    "id": 347
+  },
+  {
+    "tconst": "tt0327056",
+    "title": "Mystic River",
+    "originalTitle": "Mystic River",
+    "year": 2003,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "averageRating": 7.9,
+    "numVotes": 524756,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Mystic+River",
+    "id": 348
+  },
+  {
+    "tconst": "tt0099088",
+    "title": "Back to the Future Part III",
+    "originalTitle": "Back to the Future Part III",
+    "year": 1990,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.5,
+    "numVotes": 522794,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Back+to+the+Future+Part+III",
+    "id": 349
+  },
+  {
+    "tconst": "tt1535109",
+    "title": "Captain Phillips",
+    "originalTitle": "Captain Phillips",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Biography",
+      "Crime"
+    ],
+    "averageRating": 7.8,
+    "numVotes": 520729,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Captain+Phillips",
+    "id": 350
+  },
+  {
+    "tconst": "tt1840309",
+    "title": "Divergent",
+    "originalTitle": "Divergent",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "averageRating": 6.6,
+    "numVotes": 520324,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Divergent",
+    "id": 351
+  },
+  {
+    "tconst": "tt1800241",
+    "title": "American Hustle",
+    "originalTitle": "American Hustle",
+    "year": 2013,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "averageRating": 7.2,
+    "numVotes": 520259,
+    "posterUrl": "https://via.placeholder.com/200x300?text=American+Hustle",
+    "id": 352
+  },
+  {
+    "tconst": "tt0139654",
+    "title": "Training Day",
+    "originalTitle": "Training Day",
+    "year": 2001,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "averageRating": 7.8,
+    "numVotes": 520164,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Training+Day",
+    "id": 353
+  },
+  {
+    "tconst": "tt0117060",
+    "title": "Mission: Impossible",
+    "originalTitle": "Mission: Impossible",
+    "year": 1996,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "averageRating": 7.2,
+    "numVotes": 520059,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Mission%3A+Impossible",
+    "id": 354
+  },
+  {
+    "tconst": "tt0347149",
+    "title": "Howl's Moving Castle",
+    "originalTitle": "Hauru no ugoku shiro",
+    "year": 2004,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Family"
+    ],
+    "averageRating": 8.2,
+    "numVotes": 516475,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Howl%27s+Moving+Castle",
+    "id": 355
+  },
+  {
+    "tconst": "tt0367882",
+    "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+    "originalTitle": "Indiana Jones and the Kingdom of the Crystal Skull",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "averageRating": 6.2,
+    "numVotes": 515651,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Indiana+Jones+and+the+Kingdom+of+the+Cry",
+    "id": 356
+  },
+  {
+    "tconst": "tt0372183",
+    "title": "The Bourne Supremacy",
+    "originalTitle": "The Bourne Supremacy",
+    "year": 2004,
+    "genres": [
+      "Action",
+      "Mystery",
+      "Thriller"
+    ],
+    "averageRating": 7.7,
+    "numVotes": 515049,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Bourne+Supremacy",
+    "id": 357
+  },
+  {
+    "tconst": "tt0319262",
+    "title": "The Day After Tomorrow",
+    "originalTitle": "The Day After Tomorrow",
+    "year": 2004,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 6.5,
+    "numVotes": 514566,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Day+After+Tomorrow",
+    "id": 358
+  },
+  {
+    "tconst": "tt0387564",
+    "title": "Saw",
+    "originalTitle": "Saw",
+    "year": 2004,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "averageRating": 7.6,
+    "numVotes": 513390,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Saw",
+    "id": 359
+  },
+  {
+    "tconst": "tt2103281",
+    "title": "Dawn of the Planet of the Apes",
+    "originalTitle": "Dawn of the Planet of the Apes",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "averageRating": 7.6,
+    "numVotes": 512993,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Dawn+of+the+Planet+of+the+Apes",
+    "id": 360
+  },
+  {
+    "tconst": "tt1210166",
+    "title": "Moneyball",
+    "originalTitle": "Moneyball",
+    "year": 2011,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "averageRating": 7.6,
+    "numVotes": 512403,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Moneyball",
+    "id": 361
+  },
+  {
+    "tconst": "tt1408101",
+    "title": "Star Trek Into Darkness",
+    "originalTitle": "Star Trek Into Darkness",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.7,
+    "numVotes": 511252,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Star+Trek+Into+Darkness",
+    "id": 362
+  },
+  {
+    "tconst": "tt0407304",
+    "title": "War of the Worlds",
+    "originalTitle": "War of the Worlds",
+    "year": 2005,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 6.6,
+    "numVotes": 510145,
+    "posterUrl": "https://via.placeholder.com/200x300?text=War+of+the+Worlds",
+    "id": 363
+  },
+  {
+    "tconst": "tt2980516",
+    "title": "The Theory of Everything",
+    "originalTitle": "The Theory of Everything",
+    "year": 2014,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Romance"
+    ],
+    "averageRating": 7.7,
+    "numVotes": 509014,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Theory+of+Everything",
+    "id": 364
+  },
+  {
+    "tconst": "tt0217505",
+    "title": "Gangs of New York",
+    "originalTitle": "Gangs of New York",
+    "year": 2002,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "averageRating": 7.5,
+    "numVotes": 507722,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Gangs+of+New+York",
+    "id": 365
+  },
+  {
+    "tconst": "tt0101414",
+    "title": "Beauty and the Beast",
+    "originalTitle": "Beauty and the Beast",
+    "year": 1991,
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "averageRating": 8.0,
+    "numVotes": 507226,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Beauty+and+the+Beast",
+    "id": 366
+  },
+  {
+    "tconst": "tt0974015",
+    "title": "Justice League",
+    "originalTitle": "Justice League",
+    "year": 2017,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "averageRating": 6.0,
+    "numVotes": 506726,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Justice+League",
+    "id": 367
+  },
+  {
+    "tconst": "tt2283362",
+    "title": "Jumanji: Welcome to the Jungle",
+    "originalTitle": "Jumanji: Welcome to the Jungle",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "averageRating": 6.9,
+    "numVotes": 506596,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Jumanji%3A+Welcome+to+the+Jungle",
+    "id": 368
+  },
+  {
+    "tconst": "tt9764362",
+    "title": "The Menu",
+    "originalTitle": "The Menu",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Thriller"
+    ],
+    "averageRating": 7.1,
+    "numVotes": 506558,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Menu",
+    "id": 369
+  },
+  {
+    "tconst": "tt0325710",
+    "title": "The Last Samurai",
+    "originalTitle": "The Last Samurai",
+    "year": 2003,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "averageRating": 7.8,
+    "numVotes": 506340,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Last+Samurai",
+    "id": 370
+  },
+  {
+    "tconst": "tt0120616",
+    "title": "The Mummy",
+    "originalTitle": "The Mummy",
+    "year": 1999,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageRating": 7.1,
+    "numVotes": 505065,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Mummy",
+    "id": 371
+  },
+  {
+    "tconst": "tt0405422",
+    "title": "The 40-Year-Old Virgin",
+    "originalTitle": "The 40 Year Old Virgin",
+    "year": 2005,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "averageRating": 7.1,
+    "numVotes": 504382,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+40-Year-Old+Virgin",
+    "id": 372
+  },
+  {
+    "tconst": "tt1515091",
+    "title": "Sherlock Holmes: A Game of Shadows",
+    "originalTitle": "Sherlock Holmes: A Game of Shadows",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery"
+    ],
+    "averageRating": 7.4,
+    "numVotes": 503556,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Sherlock+Holmes%3A+A+Game+of+Shadows",
+    "id": 373
+  },
+  {
+    "tconst": "tt0093773",
+    "title": "Predator",
+    "originalTitle": "Predator",
+    "year": 1987,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror"
+    ],
+    "averageRating": 7.8,
+    "numVotes": 503323,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Predator",
+    "id": 374
+  },
+  {
+    "tconst": "tt0103639",
+    "title": "Aladdin",
+    "originalTitle": "Aladdin",
+    "year": 1992,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "averageRating": 8.0,
+    "numVotes": 502713,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Aladdin",
+    "id": 375
+  },
+  {
+    "tconst": "tt31193180",
+    "title": "Sinners",
+    "originalTitle": "Sinners",
+    "year": 2025,
+    "genres": [
+      "Horror"
+    ],
+    "averageRating": 7.5,
+    "numVotes": 501849,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Sinners",
+    "id": 376
+  },
+  {
+    "tconst": "tt1772341",
+    "title": "Wreck-It Ralph",
+    "originalTitle": "Wreck-It Ralph",
+    "year": 2012,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "averageRating": 7.7,
+    "numVotes": 501751,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Wreck-It+Ralph",
+    "id": 377
+  },
+  {
+    "tconst": "tt1355644",
+    "title": "Passengers",
+    "originalTitle": "Passengers",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.0,
+    "numVotes": 500851,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Passengers",
+    "id": 378
+  },
+  {
+    "tconst": "tt0070047",
+    "title": "The Exorcist",
+    "originalTitle": "The Exorcist",
+    "year": 1973,
+    "genres": [
+      "Horror"
+    ],
+    "averageRating": 8.1,
+    "numVotes": 500395,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Exorcist",
+    "id": 379
+  },
+  {
+    "tconst": "tt0830515",
+    "title": "Quantum of Solace",
+    "originalTitle": "Quantum of Solace",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery"
+    ],
+    "averageRating": 6.5,
+    "numVotes": 500213,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Quantum+of+Solace",
+    "id": 380
+  },
+  {
+    "tconst": "tt2379713",
+    "title": "Spectre",
+    "originalTitle": "Spectre",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "averageRating": 6.8,
+    "numVotes": 498851,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Spectre",
+    "id": 381
+  },
+  {
+    "tconst": "tt5095030",
+    "title": "Ant-Man and the Wasp",
+    "originalTitle": "Ant-Man and the Wasp",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "averageRating": 7.0,
+    "numVotes": 498822,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Ant-Man+and+the+Wasp",
+    "id": 382
+  },
+  {
+    "tconst": "tt0446029",
+    "title": "Scott Pilgrim vs. the World",
+    "originalTitle": "Scott Pilgrim vs. the World",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "averageRating": 7.5,
+    "numVotes": 498497,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Scott+Pilgrim+vs.+the+World",
+    "id": 383
+  },
+  {
+    "tconst": "tt0887912",
+    "title": "The Hurt Locker",
+    "originalTitle": "The Hurt Locker",
+    "year": 2008,
+    "genres": [
+      "Drama",
+      "Thriller",
+      "War"
+    ],
+    "averageRating": 7.5,
+    "numVotes": 497834,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Hurt+Locker",
+    "id": 384
+  },
+  {
+    "tconst": "tt0780536",
+    "title": "In Bruges",
+    "originalTitle": "In Bruges",
+    "year": 2008,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "averageRating": 7.9,
+    "numVotes": 495474,
+    "posterUrl": "https://via.placeholder.com/200x300?text=In+Bruges",
+    "id": 385
+  },
+  {
+    "tconst": "tt3385516",
+    "title": "X-Men: Apocalypse",
+    "originalTitle": "X-Men: Apocalypse",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 6.8,
+    "numVotes": 494359,
+    "posterUrl": "https://via.placeholder.com/200x300?text=X-Men%3A+Apocalypse",
+    "id": 386
+  },
+  {
+    "tconst": "tt0033467",
+    "title": "Citizen Kane",
+    "originalTitle": "Citizen Kane",
+    "year": 1941,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "averageRating": 8.2,
+    "numVotes": 494279,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Citizen+Kane",
+    "id": 387
+  },
+  {
+    "tconst": "tt0942385",
+    "title": "Tropic Thunder",
+    "originalTitle": "Tropic Thunder",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Comedy",
+      "War"
+    ],
+    "averageRating": 7.1,
+    "numVotes": 493049,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Tropic+Thunder",
+    "id": 388
+  },
+  {
+    "tconst": "tt1535108",
+    "title": "Elysium",
+    "originalTitle": "Elysium",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "averageRating": 6.6,
+    "numVotes": 492880,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Elysium",
+    "id": 389
+  },
+  {
+    "tconst": "tt1259521",
+    "title": "The Cabin in the Woods",
+    "originalTitle": "The Cabin in the Woods",
+    "year": 2011,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "averageRating": 7.0,
+    "numVotes": 492724,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Cabin+in+the+Woods",
+    "id": 390
+  },
+  {
+    "tconst": "tt6264654",
+    "title": "Free Guy",
+    "originalTitle": "Free Guy",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "averageRating": 7.1,
+    "numVotes": 492210,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Free+Guy",
+    "id": 391
+  },
+  {
+    "tconst": "tt9376612",
+    "title": "Shang-Chi and the Legend of the Ten Rings",
+    "originalTitle": "Shang-Chi and the Legend of the Ten Rings",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageRating": 7.3,
+    "numVotes": 492070,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Shang-Chi+and+the+Legend+of+the+Ten+Ring",
+    "id": 392
+  },
+  {
+    "tconst": "tt2382320",
+    "title": "No Time to Die",
+    "originalTitle": "No Time to Die",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "averageRating": 7.3,
+    "numVotes": 490713,
+    "posterUrl": "https://via.placeholder.com/200x300?text=No+Time+to+Die",
+    "id": 393
+  },
+  {
+    "tconst": "tt2584384",
+    "title": "Jojo Rabbit",
+    "originalTitle": "Jojo Rabbit",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "War"
+    ],
+    "averageRating": 7.9,
+    "numVotes": 490680,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Jojo+Rabbit",
+    "id": 394
+  },
+  {
+    "tconst": "tt8772262",
+    "title": "Midsommar",
+    "originalTitle": "Midsommar",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "averageRating": 7.1,
+    "numVotes": 490602,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Midsommar",
+    "id": 395
+  },
+  {
+    "tconst": "tt0092005",
+    "title": "Stand by Me",
+    "originalTitle": "Stand by Me",
+    "year": 1986,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "averageRating": 8.1,
+    "numVotes": 490150,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Stand+by+Me",
+    "id": 396
+  },
+  {
+    "tconst": "tt0765429",
+    "title": "American Gangster",
+    "originalTitle": "American Gangster",
+    "year": 2007,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "averageRating": 7.8,
+    "numVotes": 489685,
+    "posterUrl": "https://via.placeholder.com/200x300?text=American+Gangster",
+    "id": 397
+  },
+  {
+    "tconst": "tt1499658",
+    "title": "Horrible Bosses",
+    "originalTitle": "Horrible Bosses",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "averageRating": 6.9,
+    "numVotes": 489242,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Horrible+Bosses",
+    "id": 398
+  },
+  {
+    "tconst": "tt0377092",
+    "title": "Mean Girls",
+    "originalTitle": "Mean Girls",
+    "year": 2004,
+    "genres": [
+      "Comedy"
+    ],
+    "averageRating": 7.1,
+    "numVotes": 488778,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Mean+Girls",
+    "id": 399
+  },
+  {
+    "tconst": "tt0087332",
+    "title": "Ghostbusters",
+    "originalTitle": "Ghostbusters",
+    "year": 1984,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "averageRating": 7.8,
+    "numVotes": 488125,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Ghostbusters",
+    "id": 400
+  },
+  {
+    "tconst": "tt0093779",
+    "title": "The Princess Bride",
+    "originalTitle": "The Princess Bride",
+    "year": 1987,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "averageRating": 8.0,
+    "numVotes": 488052,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Princess+Bride",
+    "id": 401
+  },
+  {
+    "tconst": "tt0382625",
+    "title": "The Da Vinci Code",
+    "originalTitle": "The Da Vinci Code",
+    "year": 2006,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "averageRating": 6.7,
+    "numVotes": 487741,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Da+Vinci+Code",
+    "id": 402
+  },
+  {
+    "tconst": "tt0119698",
+    "title": "Princess Mononoke",
+    "originalTitle": "Mononoke-hime",
+    "year": 1997,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Fantasy"
+    ],
+    "averageRating": 8.3,
+    "numVotes": 486299,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Princess+Mononoke",
+    "id": 403
+  },
+  {
+    "tconst": "tt1637688",
+    "title": "In Time",
+    "originalTitle": "In Time",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "averageRating": 6.7,
+    "numVotes": 485973,
+    "posterUrl": "https://via.placeholder.com/200x300?text=In+Time",
+    "id": 404
+  },
+  {
+    "tconst": "tt1187043",
+    "title": "3 Idiots",
+    "originalTitle": "3 Idiots",
+    "year": 2009,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "averageRating": 8.4,
+    "numVotes": 485561,
+    "posterUrl": "https://via.placeholder.com/200x300?text=3+Idiots",
+    "id": 405
+  },
+  {
+    "tconst": "tt6146586",
+    "title": "John Wick: Chapter 3 - Parabellum",
+    "originalTitle": "John Wick: Chapter 3 - Parabellum",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "averageRating": 7.4,
+    "numVotes": 483754,
+    "posterUrl": "https://via.placeholder.com/200x300?text=John+Wick%3A+Chapter+3+-+Parabellum",
+    "id": 406
+  },
+  {
+    "tconst": "tt0351283",
+    "title": "Madagascar",
+    "originalTitle": "Madagascar",
+    "year": 2005,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "averageRating": 7.0,
+    "numVotes": 483521,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Madagascar",
+    "id": 407
+  },
+  {
+    "tconst": "tt1217209",
+    "title": "Brave",
+    "originalTitle": "Brave",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "averageRating": 7.1,
+    "numVotes": 482121,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Brave",
+    "id": 408
+  },
+  {
+    "tconst": "tt3170832",
+    "title": "Room",
+    "originalTitle": "Room",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "averageRating": 8.1,
+    "numVotes": 482028,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Room",
+    "id": 409
+  },
+  {
+    "tconst": "tt0120591",
+    "title": "Armageddon",
+    "originalTitle": "Armageddon",
+    "year": 1998,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 6.7,
+    "numVotes": 481342,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Armageddon",
+    "id": 410
+  },
+  {
+    "tconst": "tt3480822",
+    "title": "Black Widow",
+    "originalTitle": "Black Widow",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 6.6,
+    "numVotes": 480947,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Black+Widow",
+    "id": 411
+  },
+  {
+    "tconst": "tt0443453",
+    "title": "Borat",
+    "originalTitle": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+    "year": 2006,
+    "genres": [
+      "Comedy"
+    ],
+    "averageRating": 7.4,
+    "numVotes": 480174,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Borat",
+    "id": 412
+  },
+  {
+    "tconst": "tt0119567",
+    "title": "The Lost World: Jurassic Park",
+    "originalTitle": "The Lost World: Jurassic Park",
+    "year": 1997,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 6.6,
+    "numVotes": 479654,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Lost+World%3A+Jurassic+Park",
+    "id": 413
+  },
+  {
+    "tconst": "tt0319061",
+    "title": "Big Fish",
+    "originalTitle": "Big Fish",
+    "year": 2003,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "averageRating": 7.9,
+    "numVotes": 478371,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Big+Fish",
+    "id": 414
+  },
+  {
+    "tconst": "tt5580390",
+    "title": "The Shape of Water",
+    "originalTitle": "The Shape of Water",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "averageRating": 7.3,
+    "numVotes": 477840,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Shape+of+Water",
+    "id": 415
+  },
+  {
+    "tconst": "tt6791350",
+    "title": "Guardians of the Galaxy Vol. 3",
+    "originalTitle": "Guardians of the Galaxy Vol. 3",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "averageRating": 7.9,
+    "numVotes": 476493,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Guardians+of+the+Galaxy+Vol.+3",
+    "id": 416
+  },
+  {
+    "tconst": "tt12361974",
+    "title": "Zack Snyder's Justice League",
+    "originalTitle": "Zack Snyder's Justice League",
+    "year": 2021,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.9,
+    "numVotes": 475867,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Zack+Snyder%27s+Justice+League",
+    "id": 417
+  },
+  {
+    "tconst": "tt1302006",
+    "title": "The Irishman",
+    "originalTitle": "The Irishman",
+    "year": 2019,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "averageRating": 7.8,
+    "numVotes": 475384,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Irishman",
+    "id": 418
+  },
+  {
+    "tconst": "tt0088847",
+    "title": "The Breakfast Club",
+    "originalTitle": "The Breakfast Club",
+    "year": 1985,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "averageRating": 7.8,
+    "numVotes": 474726,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Breakfast+Club",
+    "id": 419
+  },
+  {
+    "tconst": "tt0119174",
+    "title": "The Game",
+    "originalTitle": "The Game",
+    "year": 1997,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "averageRating": 7.7,
+    "numVotes": 473887,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Game",
+    "id": 420
+  },
+  {
+    "tconst": "tt0083866",
+    "title": "E.T. the Extra-Terrestrial",
+    "originalTitle": "E.T. the Extra-Terrestrial",
+    "year": 1982,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.9,
+    "numVotes": 473654,
+    "posterUrl": "https://via.placeholder.com/200x300?text=E.T.+the+Extra-Terrestrial",
+    "id": 421
+  },
+  {
+    "tconst": "tt0091763",
+    "title": "Platoon",
+    "originalTitle": "Platoon",
+    "year": 1986,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "averageRating": 8.0,
+    "numVotes": 473627,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Platoon",
+    "id": 422
+  },
+  {
+    "tconst": "tt0110475",
+    "title": "The Mask",
+    "originalTitle": "The Mask",
+    "year": 1994,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Fantasy"
+    ],
+    "averageRating": 7.0,
+    "numVotes": 473449,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Mask",
+    "id": 423
+  },
+  {
+    "tconst": "tt0315327",
+    "title": "Bruce Almighty",
+    "originalTitle": "Bruce Almighty",
+    "year": 2003,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "averageRating": 6.8,
+    "numVotes": 472624,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Bruce+Almighty",
+    "id": 424
+  },
+  {
+    "tconst": "tt1605783",
+    "title": "Midnight in Paris",
+    "originalTitle": "Midnight in Paris",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "averageRating": 7.6,
+    "numVotes": 472478,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Midnight+in+Paris",
+    "id": 425
+  },
+  {
+    "tconst": "tt0360717",
+    "title": "King Kong",
+    "originalTitle": "King Kong",
+    "year": 2005,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Romance"
+    ],
+    "averageRating": 7.2,
+    "numVotes": 472129,
+    "posterUrl": "https://via.placeholder.com/200x300?text=King+Kong",
+    "id": 426
+  },
+  {
+    "tconst": "tt0163651",
+    "title": "American Pie",
+    "originalTitle": "American Pie",
+    "year": 1999,
+    "genres": [
+      "Comedy"
+    ],
+    "averageRating": 7.0,
+    "numVotes": 470410,
+    "posterUrl": "https://via.placeholder.com/200x300?text=American+Pie",
+    "id": 427
+  },
+  {
+    "tconst": "tt0369339",
+    "title": "Collateral",
+    "originalTitle": "Collateral",
+    "year": 2004,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "averageRating": 7.5,
+    "numVotes": 470290,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Collateral",
+    "id": 428
+  },
+  {
+    "tconst": "tt0086879",
+    "title": "Amadeus",
+    "originalTitle": "Amadeus",
+    "year": 1984,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "averageRating": 8.4,
+    "numVotes": 470261,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Amadeus",
+    "id": 429
+  },
+  {
+    "tconst": "tt0105695",
+    "title": "Unforgiven",
+    "originalTitle": "Unforgiven",
+    "year": 1992,
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "averageRating": 8.2,
+    "numVotes": 469875,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Unforgiven",
+    "id": 430
+  },
+  {
+    "tconst": "tt1014759",
+    "title": "Alice in Wonderland",
+    "originalTitle": "Alice in Wonderland",
+    "year": 2010,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "averageRating": 6.4,
+    "numVotes": 469742,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Alice+in+Wonderland",
+    "id": 431
+  },
+  {
+    "tconst": "tt0032138",
+    "title": "The Wizard of Oz",
+    "originalTitle": "The Wizard of Oz",
+    "year": 1939,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "averageRating": 8.1,
+    "numVotes": 469587,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Wizard+of+Oz",
+    "id": 432
+  },
+  {
+    "tconst": "tt0217869",
+    "title": "Unbreakable",
+    "originalTitle": "Unbreakable",
+    "year": 2000,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.3,
+    "numVotes": 469298,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Unbreakable",
+    "id": 433
+  },
+  {
+    "tconst": "tt0455944",
+    "title": "The Equalizer",
+    "originalTitle": "The Equalizer",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "averageRating": 7.3,
+    "numVotes": 468900,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Equalizer",
+    "id": 434
+  },
+  {
+    "tconst": "tt0831387",
+    "title": "Godzilla",
+    "originalTitle": "Godzilla",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 6.4,
+    "numVotes": 466277,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Godzilla",
+    "id": 435
+  },
+  {
+    "tconst": "tt10648342",
+    "title": "Thor: Love and Thunder",
+    "originalTitle": "Thor: Love and Thunder",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "averageRating": 6.1,
+    "numVotes": 465082,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Thor%3A+Love+and+Thunder",
+    "id": 436
+  },
+  {
+    "tconst": "tt0375679",
+    "title": "Crash",
+    "originalTitle": "Crash",
+    "year": 2004,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "averageRating": 7.7,
+    "numVotes": 463046,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Crash",
+    "id": 437
+  },
+  {
+    "tconst": "tt1690953",
+    "title": "Despicable Me 2",
+    "originalTitle": "Despicable Me 2",
+    "year": 2013,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "averageRating": 7.3,
+    "numVotes": 462433,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Despicable+Me+2",
+    "id": 438
+  },
+  {
+    "tconst": "tt7784604",
+    "title": "Hereditary",
+    "originalTitle": "Hereditary",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "averageRating": 7.3,
+    "numVotes": 462201,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Hereditary",
+    "id": 439
+  },
+  {
+    "tconst": "tt6334354",
+    "title": "The Suicide Squad",
+    "originalTitle": "The Suicide Squad",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "averageRating": 7.2,
+    "numVotes": 461411,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Suicide+Squad",
+    "id": 440
+  },
+  {
+    "tconst": "tt8367814",
+    "title": "The Gentlemen",
+    "originalTitle": "The Gentlemen",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "averageRating": 7.8,
+    "numVotes": 460663,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Gentlemen",
+    "id": 441
+  },
+  {
+    "tconst": "tt0232500",
+    "title": "The Fast and the Furious",
+    "originalTitle": "The Fast and the Furious",
+    "year": 2001,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "averageRating": 6.8,
+    "numVotes": 460425,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Fast+and+the+Furious",
+    "id": 442
+  },
+  {
+    "tconst": "tt0052357",
+    "title": "Vertigo",
+    "originalTitle": "Vertigo",
+    "year": 1958,
+    "genres": [
+      "Mystery",
+      "Romance",
+      "Thriller"
+    ],
+    "averageRating": 8.2,
+    "numVotes": 460061,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Vertigo",
+    "id": 443
+  },
+  {
+    "tconst": "tt0363771",
+    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "originalTitle": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "year": 2005,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "averageRating": 6.9,
+    "numVotes": 459821,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Chronicles+of+Narnia%3A+The+Lion%2C+the+",
+    "id": 444
+  },
+  {
+    "tconst": "tt0104431",
+    "title": "Home Alone 2: Lost in New York",
+    "originalTitle": "Home Alone 2: Lost in New York",
+    "year": 1992,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Crime"
+    ],
+    "averageRating": 6.9,
+    "numVotes": 458428,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Home+Alone+2%3A+Lost+in+New+York",
+    "id": 445
+  },
+  {
+    "tconst": "tt1399103",
+    "title": "Transformers: Dark of the Moon",
+    "originalTitle": "Transformers: Dark of the Moon",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "averageRating": 6.2,
+    "numVotes": 457744,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Transformers%3A+Dark+of+the+Moon",
+    "id": 446
+  },
+  {
+    "tconst": "tt0099674",
+    "title": "The Godfather Part III",
+    "originalTitle": "The Godfather Part III",
+    "year": 1990,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "averageRating": 7.5,
+    "numVotes": 457605,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Godfather+Part+III",
+    "id": 447
+  },
+  {
+    "tconst": "tt1245492",
+    "title": "This Is the End",
+    "originalTitle": "This Is the End",
+    "year": 2013,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "averageRating": 6.6,
+    "numVotes": 457097,
+    "posterUrl": "https://via.placeholder.com/200x300?text=This+Is+the+End",
+    "id": 448
+  },
+  {
+    "tconst": "tt0265086",
+    "title": "Black Hawk Down",
+    "originalTitle": "Black Hawk Down",
+    "year": 2001,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "averageRating": 7.7,
+    "numVotes": 456699,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Black+Hawk+Down",
+    "id": 449
+  },
+  {
+    "tconst": "tt1055369",
+    "title": "Transformers: Revenge of the Fallen",
+    "originalTitle": "Transformers: Revenge of the Fallen",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 6.0,
+    "numVotes": 456114,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Transformers%3A+Revenge+of+the+Fallen",
+    "id": 450
+  },
+  {
+    "tconst": "tt0147800",
+    "title": "10 Things I Hate About You",
+    "originalTitle": "10 Things I Hate About You",
+    "year": 1999,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "averageRating": 7.4,
+    "numVotes": 455056,
+    "posterUrl": "https://via.placeholder.com/200x300?text=10+Things+I+Hate+About+You",
+    "id": 451
+  },
+  {
+    "tconst": "tt2948372",
+    "title": "Soul",
+    "originalTitle": "Soul",
+    "year": 2020,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "averageRating": 8.0,
+    "numVotes": 452901,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Soul",
+    "id": 452
+  },
+  {
+    "tconst": "tt17526714",
+    "title": "The Substance",
+    "originalTitle": "The Substance",
+    "year": 2024,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.2,
+    "numVotes": 451011,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Substance",
+    "id": 453
+  },
+  {
+    "tconst": "tt1517451",
+    "title": "A Star Is Born",
+    "originalTitle": "A Star Is Born",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "averageRating": 7.6,
+    "numVotes": 450584,
+    "posterUrl": "https://via.placeholder.com/200x300?text=A+Star+Is+Born",
+    "id": 454
+  },
+  {
+    "tconst": "tt0840361",
+    "title": "The Town",
+    "originalTitle": "The Town",
+    "year": 2010,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "averageRating": 7.5,
+    "numVotes": 449941,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Town",
+    "id": 455
+  },
+  {
+    "tconst": "tt0117571",
+    "title": "Scream",
+    "originalTitle": "Scream",
+    "year": 1996,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "averageRating": 7.4,
+    "numVotes": 449295,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Scream",
+    "id": 456
+  },
+  {
+    "tconst": "tt0118971",
+    "title": "The Devil's Advocate",
+    "originalTitle": "The Devil's Advocate",
+    "year": 1997,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "averageRating": 7.5,
+    "numVotes": 448300,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Devil%27s+Advocate",
+    "id": 457
+  },
+  {
+    "tconst": "tt2381249",
+    "title": "Mission: Impossible - Rogue Nation",
+    "originalTitle": "Mission: Impossible - Rogue Nation",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "averageRating": 7.4,
+    "numVotes": 447671,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Mission%3A+Impossible+-+Rogue+Nation",
+    "id": 458
+  },
+  {
+    "tconst": "tt1060277",
+    "title": "Cloverfield",
+    "originalTitle": "Cloverfield",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.0,
+    "numVotes": 445800,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Cloverfield",
+    "id": 459
+  },
+  {
+    "tconst": "tt3521164",
+    "title": "Moana",
+    "originalTitle": "Moana",
+    "year": 2016,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "averageRating": 7.6,
+    "numVotes": 445393,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Moana",
+    "id": 460
+  },
+  {
+    "tconst": "tt1282140",
+    "title": "Easy A",
+    "originalTitle": "Easy A",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "averageRating": 7.0,
+    "numVotes": 445392,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Easy+A",
+    "id": 461
+  },
+  {
+    "tconst": "tt0109686",
+    "title": "Dumb and Dumber",
+    "originalTitle": "Dumb and Dumber",
+    "year": 1994,
+    "genres": [
+      "Comedy"
+    ],
+    "averageRating": 7.3,
+    "numVotes": 444989,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Dumb+and+Dumber",
+    "id": 462
+  },
+  {
+    "tconst": "tt0405094",
+    "title": "The Lives of Others",
+    "originalTitle": "Das Leben der Anderen",
+    "year": 2006,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "averageRating": 8.4,
+    "numVotes": 444781,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Lives+of+Others",
+    "id": 463
+  },
+  {
+    "tconst": "tt0361862",
+    "title": "The Machinist",
+    "originalTitle": "The Machinist",
+    "year": 2004,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "averageRating": 7.6,
+    "numVotes": 443638,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Machinist",
+    "id": 464
+  },
+  {
+    "tconst": "tt2294449",
+    "title": "22 Jump Street",
+    "originalTitle": "22 Jump Street",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "averageRating": 7.0,
+    "numVotes": 442382,
+    "posterUrl": "https://via.placeholder.com/200x300?text=22+Jump+Street",
+    "id": 465
+  },
+  {
+    "tconst": "tt1905041",
+    "title": "Fast & Furious 6",
+    "originalTitle": "Furious 6",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime"
+    ],
+    "averageRating": 7.0,
+    "numVotes": 441581,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Fast+%26+Furious+6",
+    "id": 466
+  },
+  {
+    "tconst": "tt2820852",
+    "title": "Furious 7",
+    "originalTitle": "Fast & Furious 7",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "averageRating": 7.1,
+    "numVotes": 441484,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Furious+7",
+    "id": 467
+  },
+  {
+    "tconst": "tt0349903",
+    "title": "Ocean's Twelve",
+    "originalTitle": "Ocean's Twelve",
+    "year": 2004,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "averageRating": 6.5,
+    "numVotes": 439033,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Ocean%27s+Twelve",
+    "id": 468
+  },
+  {
+    "tconst": "tt0181852",
+    "title": "Terminator 3: Rise of the Machines",
+    "originalTitle": "Terminator 3: Rise of the Machines",
+    "year": 2003,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "averageRating": 6.3,
+    "numVotes": 438599,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Terminator+3%3A+Rise+of+the+Machines",
+    "id": 469
+  },
+  {
+    "tconst": "tt2194499",
+    "title": "About Time",
+    "originalTitle": "About Time",
+    "year": 2013,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "averageRating": 7.8,
+    "numVotes": 437433,
+    "posterUrl": "https://via.placeholder.com/200x300?text=About+Time",
+    "id": 470
+  },
+  {
+    "tconst": "tt0337978",
+    "title": "Live Free or Die Hard",
+    "originalTitle": "Live Free or Die Hard",
+    "year": 2007,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "averageRating": 7.1,
+    "numVotes": 436656,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Live+Free+or+Die+Hard",
+    "id": 471
+  },
+  {
+    "tconst": "tt0096283",
+    "title": "My Neighbor Totoro",
+    "originalTitle": "Tonari no Totoro",
+    "year": 1988,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "averageRating": 8.1,
+    "numVotes": 435139,
+    "posterUrl": "https://via.placeholder.com/200x300?text=My+Neighbor+Totoro",
+    "id": 472
+  },
+  {
+    "tconst": "tt1596343",
+    "title": "Fast Five",
+    "originalTitle": "Fast Five",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "averageRating": 7.3,
+    "numVotes": 435116,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Fast+Five",
+    "id": 473
+  },
+  {
+    "tconst": "tt0079470",
+    "title": "Monty Python's Life of Brian",
+    "originalTitle": "Monty Python's Life of Brian",
+    "year": 1979,
+    "genres": [
+      "Comedy"
+    ],
+    "averageRating": 8.0,
+    "numVotes": 434739,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Monty+Python%27s+Life+of+Brian",
+    "id": 474
+  },
+  {
+    "tconst": "tt0120912",
+    "title": "Men in Black II",
+    "originalTitle": "Men in Black II",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "averageRating": 6.2,
+    "numVotes": 433548,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Men+in+Black+II",
+    "id": 475
+  },
+  {
+    "tconst": "tt0096895",
+    "title": "Batman",
+    "originalTitle": "Batman",
+    "year": 1989,
+    "genres": [
+      "Crime"
+    ],
+    "averageRating": 7.5,
+    "numVotes": 433401,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Batman",
+    "id": 476
+  },
+  {
+    "tconst": "tt0120663",
+    "title": "Eyes Wide Shut",
+    "originalTitle": "Eyes Wide Shut",
+    "year": 1999,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "averageRating": 7.5,
+    "numVotes": 432986,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Eyes+Wide+Shut",
+    "id": 477
+  },
+  {
+    "tconst": "tt0112864",
+    "title": "Die Hard with a Vengeance",
+    "originalTitle": "Die Hard with a Vengeance",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "averageRating": 7.6,
+    "numVotes": 431654,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Die+Hard+with+a+Vengeance",
+    "id": 478
+  },
+  {
+    "tconst": "tt0166924",
+    "title": "Mulholland Drive",
+    "originalTitle": "Mulholland Dr.",
+    "year": 2001,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "averageRating": 7.9,
+    "numVotes": 430494,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Mulholland+Drive",
+    "id": 479
+  },
+  {
+    "tconst": "tt9032400",
+    "title": "Eternals",
+    "originalTitle": "Eternals",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageRating": 6.2,
+    "numVotes": 430069,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Eternals",
+    "id": 480
+  },
+  {
+    "tconst": "tt0493464",
+    "title": "Wanted",
+    "originalTitle": "Wanted",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "averageRating": 6.7,
+    "numVotes": 429674,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Wanted",
+    "id": 481
+  },
+  {
+    "tconst": "tt5950044",
+    "title": "Superman",
+    "originalTitle": "Superman",
+    "year": 2025,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.0,
+    "numVotes": 429186,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Superman",
+    "id": 482
+  },
+  {
+    "tconst": "tt0119094",
+    "title": "Face/Off",
+    "originalTitle": "Face/Off",
+    "year": 1997,
+    "genres": [
+      "Action",
+      "Crime",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.3,
+    "numVotes": 428941,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Face%2FOff",
+    "id": 483
+  },
+  {
+    "tconst": "tt0230600",
+    "title": "The Others",
+    "originalTitle": "The Others",
+    "year": 2001,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "averageRating": 7.6,
+    "numVotes": 428723,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Others",
+    "id": 484
+  },
+  {
+    "tconst": "tt1453405",
+    "title": "Monsters University",
+    "originalTitle": "Monsters University",
+    "year": 2013,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "averageRating": 7.2,
+    "numVotes": 427590,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Monsters+University",
+    "id": 485
+  },
+  {
+    "tconst": "tt12042730",
+    "title": "Project Hail Mary",
+    "originalTitle": "Project Hail Mary",
+    "year": 2026,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "averageRating": 8.2,
+    "numVotes": 427344,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Project+Hail+Mary",
+    "id": 486
+  },
+  {
+    "tconst": "tt0317919",
+    "title": "Mission: Impossible III",
+    "originalTitle": "Mission: Impossible III",
+    "year": 2006,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "averageRating": 6.9,
+    "numVotes": 426578,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Mission%3A+Impossible+III",
+    "id": 487
+  },
+  {
+    "tconst": "tt0454848",
+    "title": "Inside Man",
+    "originalTitle": "Inside Man",
+    "year": 2006,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "averageRating": 7.6,
+    "numVotes": 426373,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Inside+Man",
+    "id": 488
+  },
+  {
+    "tconst": "tt2582846",
+    "title": "The Fault in Our Stars",
+    "originalTitle": "The Fault in Our Stars",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "averageRating": 7.6,
+    "numVotes": 426010,
+    "posterUrl": "https://via.placeholder.com/200x300?text=The+Fault+in+Our+Stars",
+    "id": 489
+  },
+  {
+    "tconst": "tt1587310",
+    "title": "Maleficent",
+    "originalTitle": "Maleficent",
+    "year": 2014,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "averageRating": 6.9,
+    "numVotes": 425989,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Maleficent",
+    "id": 490
+  },
+  {
+    "tconst": "tt1542344",
+    "title": "127 Hours",
+    "originalTitle": "127 Hours",
+    "year": 2010,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "averageRating": 7.5,
+    "numVotes": 425967,
+    "posterUrl": "https://via.placeholder.com/200x300?text=127+Hours",
+    "id": 491
+  },
+  {
+    "tconst": "tt30144839",
+    "title": "One Battle After Another",
+    "originalTitle": "One Battle After Another",
+    "year": 2025,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "averageRating": 7.6,
+    "numVotes": 425705,
+    "posterUrl": "https://via.placeholder.com/200x300?text=One+Battle+After+Another",
+    "id": 492
+  },
+  {
+    "tconst": "tt0111257",
+    "title": "Speed",
+    "originalTitle": "Speed",
+    "year": 1994,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "averageRating": 7.3,
+    "numVotes": 424261,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Speed",
+    "id": 493
+  },
+  {
+    "tconst": "tt2737304",
+    "title": "Bird Box",
+    "originalTitle": "Bird Box",
+    "year": 2018,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "averageRating": 6.6,
+    "numVotes": 424195,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Bird+Box",
+    "id": 494
+  },
+  {
+    "tconst": "tt1190080",
+    "title": "2012",
+    "originalTitle": "2012",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageRating": 5.9,
+    "numVotes": 423918,
+    "posterUrl": "https://via.placeholder.com/200x300?text=2012",
+    "id": 495
+  },
+  {
+    "tconst": "tt0328107",
+    "title": "Man on Fire",
+    "originalTitle": "Man on Fire",
+    "year": 2004,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "averageRating": 7.7,
+    "numVotes": 423150,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Man+on+Fire",
+    "id": 496
+  },
+  {
+    "tconst": "tt1706620",
+    "title": "Snowpiercer",
+    "originalTitle": "Snowpiercer",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "averageRating": 7.1,
+    "numVotes": 422807,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Snowpiercer",
+    "id": 497
+  },
+  {
+    "tconst": "tt4912910",
+    "title": "Mission: Impossible - Fallout",
+    "originalTitle": "Mission: Impossible - Fallout",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "averageRating": 7.7,
+    "numVotes": 421831,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Mission%3A+Impossible+-+Fallout",
+    "id": 498
+  },
+  {
+    "tconst": "tt1632708",
+    "title": "Friends with Benefits",
+    "originalTitle": "Friends with Benefits",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "averageRating": 6.5,
+    "numVotes": 421690,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Friends+with+Benefits",
+    "id": 499
+  },
+  {
+    "tconst": "tt0094721",
+    "title": "Beetlejuice",
+    "originalTitle": "Beetlejuice",
+    "year": 1988,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "averageRating": 7.4,
+    "numVotes": 420052,
+    "posterUrl": "https://via.placeholder.com/200x300?text=Beetlejuice",
+    "id": 500
+  }
+]

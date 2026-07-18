@@ -1,0 +1,9 @@
+# Ignore large datasets and raw IMDB TSV files
+/data/*.tsv
+/data/movies*.json
+
+# Keep generated sample dataset under version control
+!/data/movies_sample.json
+
+# Ignore local VS Code settings
+.vscode/
