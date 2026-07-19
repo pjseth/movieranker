@@ -173,6 +173,7 @@ function render() {
     renderHome();
     return;
   }
+  if (page === "mylist") return renderMyList();
   if (page === "insertion") return renderInsertion();
   if (page === "unwatched") return renderUnwatchedPage();
 }
