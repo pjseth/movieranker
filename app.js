@@ -1,5 +1,6 @@
 ﻿const MOVIES_URL = "./data/movies_sample.json";
 const HOME_BATCH = 8; // show 8 movies on homepage
+const DEFAULT_TMDB_KEY = "bee71253705403e627bdb627ad0e38c7"; // real key from https://www.themoviedb.org/settings/api
 
 const app = document.getElementById("app");
 let page = "loading"; // landing, signin, signup, intro, home, insertion, unwatched
@@ -10,7 +11,8 @@ let users = {}; // username -> { email, username, password, ratedMovies: [], unw
 let currentUser = null;
 
 // insertion state for binary placement
-let insertion = { newMovie: null, low: 0, high: 0 };
+let insertion = { newMovie: null, low: 0, high: 0, source: null, sourceIndex: null };
+let currentHomeBatch = [];
 
 async function init() {
   loadUsers();
@@ -56,7 +58,7 @@ async function hashPassword(password) {
 }
 
 function getTMDBKey() {
-  return localStorage.getItem('tmdb_key') || null;
+  return DEFAULT_TMDB_KEY || null;
 }
 
 function setTMDBKey(key) {
@@ -106,7 +108,6 @@ async function fetchBatchPosters(batch) {
     }
   });
   await Promise.all(promises);
-  if (page === 'home') render();
 }
 
 function shuffleArray(arr) {
@@ -171,8 +172,7 @@ function render() {
   if (page === "signup") return renderSignUp();
   if (page === "intro") return renderIntro();
   if (page === "home") {
-    renderHome();
-    return;
+    return renderHome();
   }
   if (page === "mylist") return renderMyList();
   if (page === "insertion") return renderInsertion();
@@ -307,54 +307,37 @@ function saveUserData() {
 }
 
 async function renderHome() {
-  const currentKey = getTMDBKey();
   const section = document.createElement("section");
   section.innerHTML = `<h2>Homepage</h2><p>Browse popular movies and add them to your ranked list.</p>`;
   const controls = document.createElement('div');
   const shuffleBtn = document.createElement('button');
   shuffleBtn.textContent = 'Refresh batch';
-  const fetchPostersBtn = document.createElement('button');
-  fetchPostersBtn.textContent = 'Fetch posters';
-  const keyInput = document.createElement('input');
-  keyInput.placeholder = 'TMDB API key';
-  keyInput.style.margin = '0 8px';
-  keyInput.style.padding = '8px';
-  keyInput.style.borderRadius = '10px';
-  keyInput.style.border = '1px solid rgba(148,163,184,0.2)';
-  keyInput.value = currentKey || '';
-  const saveKeyBtn = document.createElement('button');
-  saveKeyBtn.textContent = currentKey ? 'Update key' : 'Save key';
-  saveKeyBtn.className = 'secondary';
-  const clearKeyBtn = document.createElement('button');
-  clearKeyBtn.textContent = 'Clear key';
-  clearKeyBtn.className = 'secondary';
   controls.appendChild(shuffleBtn);
-  controls.appendChild(fetchPostersBtn);
-  controls.appendChild(keyInput);
-  controls.appendChild(saveKeyBtn);
-  controls.appendChild(clearKeyBtn);
   section.appendChild(controls);
 
   const grid = document.createElement('div');
   grid.className = 'grid movie-grid movie-grid-home';
-  // use the top (most popular) movies first — dataset is pre-sorted by popularity
-  const batch = allMovies.slice(0, HOME_BATCH);
+  if (!currentHomeBatch.length) {
+    currentHomeBatch = shuffleArray(allMovies).slice(0, HOME_BATCH);
+  }
+  const batch = currentHomeBatch;
 
-  // if TMDB key exists, fetch posters before rendering
   if (getTMDBKey()) {
     await fetchBatchPosters(batch);
   }
 
   batch.forEach((movie) => {
+    const inList = currentUser && currentUser.ratedMovies && currentUser.ratedMovies.some(x => x.id === movie.id);
+    const isUnwatched = currentUser && currentUser.unwatched && currentUser.unwatched.some(x => x.id === movie.id);
     const card = document.createElement('article');
     card.className = 'movie-card';
     card.innerHTML = `
       <img src="${getPosterUrl(movie)}" alt="${movie.title} poster" />
       <h3>${movie.title}</h3>
-      <p class="small-meta">${movie.year || ''} • ${movie.genres ? movie.genres.slice(0,2).join(', ') : ''}</p>
+      <p class="small-meta">${movie.year || ''}${movie.genres ? ' • ' + movie.genres.slice(0,2).join(', ') : ''}</p>
       <div style="display:flex;gap:8px;margin-top:10px">
-        <button data-add="${movie.id}">Add to list</button>
-        <button class="secondary" data-unseen="${movie.id}">I haven't seen this</button>
+        <button data-add="${movie.id}" ${inList ? 'disabled class="secondary"' : ''}>${inList ? 'In list' : 'Add to list'}</button>
+        <button class="secondary" data-unseen="${movie.id}" ${isUnwatched ? 'disabled' : ''}>${isUnwatched ? 'Saved' : "I haven't seen this"}</button>
       </div>
     `;
     grid.appendChild(card);
@@ -362,30 +345,9 @@ async function renderHome() {
   section.appendChild(grid);
   app.appendChild(section);
 
-  shuffleBtn.addEventListener('click', () => { render(); });
-
-  saveKeyBtn.addEventListener('click', async () => {
-    const key = keyInput.value.trim();
-    if (!key) {
-      alert('Enter a TMDB API key to save.');
-      return;
-    }
-    setTMDBKey(key);
-    keyInput.value = key;
-    saveKeyBtn.textContent = 'Update key';
-    alert('TMDB key saved. Posters will now auto-load.');
-    await fetchBatchPosters(batch);
-  });
-
-  clearKeyBtn.addEventListener('click', () => {
-    setTMDBKey('');
-    keyInput.value = '';
-    saveKeyBtn.textContent = 'Save key';
-    alert('TMDB key cleared. You can still use placeholders.');
-  });
-
-  fetchPostersBtn.addEventListener('click', async () => {
-    await fetchBatchPosters(batch);
+  shuffleBtn.addEventListener('click', () => {
+    currentHomeBatch = shuffleArray(allMovies).slice(0, HOME_BATCH);
+    render();
   });
 
   section.querySelectorAll('button[data-add]').forEach(btn => {
@@ -427,17 +389,18 @@ function renderMyList() {
   rated.forEach((m, idx) => {
     const li = document.createElement('li');
     li.innerHTML = `
-      <div style="display:flex;justify-content:space-between;align-items:center">
-        <div>
-          <strong>${m.title}</strong>
-          <div class="small-meta">${m.year||''}</div>
-        </div>
-        <div style="display:flex;gap:8px">
-          <button data-up="${idx}">▲</button>
-          <button data-down="${idx}">▼</button>
+      <article class="movie-card">
+        <img src="${getPosterUrl(m)}" alt="${m.title} poster" />
+        <h3>${m.title}</h3>
+        <p class="small-meta">${m.year || ''}${m.genres ? ' • ' + m.genres.slice(0,2).join(', ') : ''}</p>
+        <div style="display:flex;justify-content:space-between;align-items:center;gap:8px;margin-top:12px">
+          <div style="display:flex;gap:8px">
+            <button data-up="${idx}">▲</button>
+            <button data-down="${idx}">▼</button>
+          </div>
           <button data-remove="${idx}">Remove</button>
         </div>
-      </div>`;
+      </article>`;
     list.appendChild(li);
   });
   section.appendChild(list);
@@ -509,8 +472,10 @@ function performUndo() {
   render();
 }
 
-function startInsertion(movie) {
+function startInsertion(movie, options = {}) {
   insertion.newMovie = movie;
+  insertion.source = options.source || null;
+  insertion.sourceIndex = typeof options.sourceIndex === 'number' ? options.sourceIndex : null;
   const userData = getUserData();
   insertion.low = 0;
   insertion.high = (userData.ratedMovies || []).length;
@@ -521,6 +486,9 @@ function startInsertion(movie) {
     if (!currentUser) { alert('Sign in to save your list'); return; }
     if (!currentUser.ratedMovies) currentUser.ratedMovies = [];
     currentUser.ratedMovies.push(movie);
+    if (insertion.source === 'unwatched' && currentUser.unwatched) {
+      currentUser.unwatched = currentUser.unwatched.filter(m => m.id !== movie.id);
+    }
     saveUserData();
     alert('Added to your list');
     page = 'home';
@@ -612,17 +580,39 @@ function renderUnwatchedPage() {
     app.appendChild(section);
     return;
   }
-  const table = document.createElement('table');
-  table.innerHTML = `
-    <thead><tr><th>Title</th><th>Year</th></tr></thead>
-  `;
-  const tbody = document.createElement('tbody');
-  currentUser.unwatched.forEach(m=>{
-    const r = document.createElement('tr'); r.innerHTML = `<td>${m.title}</td><td>${m.year||''}</td>`; tbody.appendChild(r);
+  const grid = document.createElement('div');
+  grid.className = 'grid movie-grid movie-grid-home';
+  currentUser.unwatched.forEach((m, idx) => {
+    const card = document.createElement('article');
+    card.className = 'movie-card';
+    card.innerHTML = `
+      <img src="${getPosterUrl(m)}" alt="${m.title} poster" />
+      <h3>${m.title}</h3>
+      <p class="small-meta">${m.year || ''}${m.genres ? ' • ' + m.genres.slice(0,2).join(', ') : ''}</p>
+      <div style="display:flex;gap:8px;margin-top:10px">
+        <button data-watch="${idx}">Mark watched</button>
+      </div>
+    `;
+    grid.appendChild(card);
   });
-  table.appendChild(tbody);
-  section.appendChild(table);
+  section.appendChild(grid);
   app.appendChild(section);
+  section.querySelectorAll('button[data-watch]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const idx = Number(btn.dataset.watch);
+      const movie = currentUser.unwatched[idx];
+      if (!currentUser.ratedMovies) currentUser.ratedMovies = [];
+      const exists = currentUser.ratedMovies.some(x => x.id === movie.id);
+      if (!exists) {
+        currentUser.ratedMovies.push(movie);
+        if (!currentUser._history) currentUser._history = [];
+        currentUser._history.push({ type: 'insert', index: currentUser.ratedMovies.length - 1, movie });
+      }
+      currentUser.unwatched.splice(idx, 1);
+      saveUserData();
+      render();
+    });
+  });
 }
 
 init();
