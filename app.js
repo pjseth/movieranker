@@ -164,6 +164,7 @@ function renderLoading() {
 function render() {
   renderHeader();
   app.innerHTML = "";
+  console.log('render page:', page);
   if (page === "loading") return renderLoading();
   if (page === "landing") return renderLanding();
   if (page === "signin") return renderSignIn();
@@ -176,6 +177,12 @@ function render() {
   if (page === "mylist") return renderMyList();
   if (page === "insertion") return renderInsertion();
   if (page === "unwatched") return renderUnwatchedPage();
+  const section = document.createElement('section');
+  section.innerHTML = `
+    <h2>Unknown page: ${page}</h2>
+    <p>This is a fallback render state. Try refreshing the page.</p>
+  `;
+  app.appendChild(section);
 }
 
 async function renderHome() {
