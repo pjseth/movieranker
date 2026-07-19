@@ -185,12 +185,6 @@ function render() {
   app.appendChild(section);
 }
 
-async function renderHome() {
-  const s = document.createElement("section");
-  s.innerHTML = `<h2>Loading…</h2>`;
-  app.appendChild(s);
-}
-
 function renderLanding() {
   const section = document.createElement("section");
   section.className = "landing";
