@@ -152,6 +152,15 @@ function renderHeader() {
   }
 }
 
+function renderLoading() {
+  const section = document.createElement('section');
+  section.innerHTML = `
+    <h2>Loading...</h2>
+    <p>Please wait while the page loads.</p>
+  `;
+  app.appendChild(section);
+}
+
 function render() {
   renderHeader();
   app.innerHTML = "";
